@@ -12,23 +12,22 @@
         <br><br>
         <div class="flexcontainer2">
             <div class="btn-group">
-                
+                <% projects.forEach(function(project) { %>
+                <button href="<%= project.projectLink %>" class="btn btn-primary"><%= project.title %></button>
+                <% }); %>
+<!--                 
                 <button>IRIS</button>
-                <button>TINTIN</button>
+                <button><%- projects[0].title %></button>
                 <button>i-3Market</button>
                 <button>Predictive eBoost</button>
                 <button>Roses UPC</button>
                 <button>REMEDiAL</button>
                 <button>QaaS II</button>
                 <button>QaaS I</button>
-                <button>EuroEnergest</button>
+                <button>EuroEnergest</button> -->
             </div>
         </div>
-            <div class="btn-group2">
-                <button>TINTIN</button>
-                <button>LinDaFix</button>
-                <button>H2020</button>
-            </div>
+            
             
     </div>
 

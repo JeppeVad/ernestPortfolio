@@ -4,9 +4,6 @@ var ProjectList = require("../models/projectModel");
 
 const indexView = (req, res) => {
 
-
-
-
   res.render("index", { title: "Ernest", layout: "./layouts/full-width" });
 };
 

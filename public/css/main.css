@@ -25,15 +25,18 @@ h1 {
   font-size: 45px;
   text-align: center;
 }
-
+article {
+  font-size: large;
+  border-style: solid;
+}
 /* Top navbar */
 
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 1;
   overflow: hidden;
-  background-color: #333;
+  background-color: #43a8e7;
   position: fixed;
   top: 0;
   width: 100%;
@@ -44,19 +47,21 @@ li {
 }
 
 li a {
-  display: block;
+  display:flex;
   color: white;
   text-align: center;
+  align-content: flex-end;
+  justify-content: flex-end;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover:not(.active) {
-  background-color: #111;
+  background-color: #0b89f6;
 }
 
 .active {
-  background-color: #04aa6d;
+  background-color: #0b89f6;
 }
 /* Personal information */
 .frontContainer {
@@ -77,13 +82,11 @@ li a:hover:not(.active) {
 }
 
 .frontErnestImage {
-  width: 30%;
-  margin-left: auto;
+  width: 20%;
+  border-style: solid;
+  margin-left: auto; 
   margin-right: auto;
-  background-color: white;
-  padding: 20px;
-  border-radius: 10px;
-  text-align: left;
+  padding: 15px;
 }
 /* under image on left with 30% width */
 .frontQR {
@@ -100,4 +103,59 @@ li a:hover:not(.active) {
   display: flex;
   justify-content: center;
   align-content: center;
+}
+
+/* List of buttons  */
+.btn-group button {
+  justify-content: flex-start;
+  background-color: #43a8e7; /* background */
+  border: 1px solid black; /* border around buttons */
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 400%; /* width*/
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #0b89f6;
+}
+
+.btn-group2 {
+  position: absolute;
+  left: 80%;
+  bottom: 5%;
+  border-style: solid;
+}
+
+.btn-group2 button {
+  justify-content: flex-end;
+  align-content: flex-end;
+  background-color: #43a8e7; /* background */
+  border: 1px solid black; /* border around buttons */
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  width: 100%; /* width*/
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group2 button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group2 button:hover {
+  background-color: #0b89f6;
+}
+
+.flexcontainer2 {
+  display: flex;
+  justify-content: flex-start;
+  width: auto;
 }

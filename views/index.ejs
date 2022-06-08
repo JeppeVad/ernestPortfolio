@@ -14,7 +14,7 @@
             <div class="btn-group">
                 <% projects.forEach(function(project) { %>
                     <form action="<%= project.url %>">
-                        <input type="submit" onclick="parent.open='<%= projects.url %>'" value="<%= project.title%>">
+                        <button type="submit" onclick="parent.open='<%= projects.url %>'" value="<%= project.title%>"> <%= project.title%> </button>
                     </form>
                 <% }); %>
             </div>

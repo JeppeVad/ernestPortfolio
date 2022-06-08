@@ -1,9 +1,9 @@
 const express = require('express');
 
-const { indexView, getProjects } = require('../controllers/indexController');
+const { indexView } = require('../controllers/indexController');
+
 const router = express.Router();
 
-router.get('/', indexView);
-router.get('/projects', getProjects); 
+router.get('/', indexView);  
 
 module.exports = router;

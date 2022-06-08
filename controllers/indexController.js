@@ -1,26 +1,18 @@
-// For index View sending path to other layout than default
-
 var ProjectList = require("../models/projectModel");
 
 const indexView = (req, res) => {
 
-  res.render("index", { title: "Ernest", layout: "./layouts/full-width" });
-};
-
-
-const getProjects = (req, res) => {
+  // Renders the index view with the projectList from the database
   const projectList = new ProjectList();
-
   projectList.GetProjects().then(result => {
-    res.render("index", { title: "Ernest", layout: "./layouts/full-width", projects: result });
-    console.log(result);
+    res.render("index", { 
+      title: "Ernest", 
+      layout: "./layouts/full-width", 
+      projects: result 
+    });
   });
-
 };
-
-
 
 module.exports = {
-  indexView,
-  getProjects,
-};
+  indexView
+}; 

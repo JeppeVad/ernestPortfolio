@@ -1,17 +1,17 @@
 const pool = require("../config/database");
-
-// model for selecting data from ernestProjects
+// model for selecting projectList from database
 class ProjectList {
-  // constructor() {}
-
   async GetProjects() {
-    var sql = "SELECT * FROM ernestprojects";
-    pool.query(sql, function (err, result) {
-      if (err) throw err;
-      console.log(result);
-    return result;
-
+    return new Promise(async (resolve, reject) => {
+      let sql = "SELECT * FROM ernestProjects";
+      pool.query(sql, function(err, result) {
+        if (err) {
+          reject(err);
+        } else {
+          resolve(result);
+        }
+      });
     });
-}
+  }
 }
 module.exports = ProjectList;

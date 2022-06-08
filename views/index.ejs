@@ -12,24 +12,20 @@
         <br><br>
         <div class="flexcontainer2">
             <div class="btn-group">
-                
-                <button>IRIS</button>
-                <button>TINTIN</button>
-                <button>i-3Market</button>
-                <button>Predictive eBoost</button>
-                <button>Roses UPC</button>
-                <button>REMEDiAL</button>
-                <button>QaaS II</button>
-                <button>QaaS I</button>
-                <button>EuroEnergest</button>
+                <% projects.forEach(function(project) { %>
+                <button class="btn btn-primary" 
+                href=<%= projects.url %> >
+                <%= project.title %>
+                </button>
+                <% }); %>
             </div>
         </div>
-            <div class="btn-group2">
-                <button>TINTIN</button>
-                <button>LinDaFix</button>
-                <button>H2020</button>
-            </div>
-            
-    </div>
+        <p><a href="https://inlab.fib.upc.edu/es/iris">Visit Iris</a></p>
+        <p>
+            <a href=<%= projects.url %>>
+                Visit Iris via db
+            </a>
+        </p>
 
+    </div>
 </div>

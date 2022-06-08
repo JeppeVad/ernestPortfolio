@@ -13,19 +13,11 @@
         <div class="flexcontainer2">
             <div class="btn-group">
                 <% projects.forEach(function(project) { %>
-                <button class="btn btn-primary" 
-                href=<%= projects.url %> >
-                <%= project.title %>
-                </button>
+                    <form action="<%= project.url %>">
+                        <input type="submit" onclick="parent.open='<%= projects.url %>'" value="<%= project.title%>">
+                    </form>
                 <% }); %>
             </div>
         </div>
-        <p><a href="https://inlab.fib.upc.edu/es/iris">Visit Iris</a></p>
-        <p>
-            <a href=<%= projects.url %>>
-                Visit Iris via db
-            </a>
-        </p>
-
     </div>
 </div>

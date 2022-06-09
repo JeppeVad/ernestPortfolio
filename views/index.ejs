@@ -12,6 +12,7 @@
         <br><br>
         <div class="flexcontainer2">
             <div class="btn-group">
+                <p>List of projects</p>
                 <% projects.forEach(function(project) { %>
                     <form action="<%= project.url %>">
                         <button type="submit" onclick="parent.open='<%= projects.url %>'" value="<%= project.title%>"> <%= project.title%> </button>

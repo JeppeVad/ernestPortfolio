@@ -127,7 +127,7 @@ li a:hover:not(.active) {
 }
 
 .btn-group2 {
-  position: absolute;
+  position: flex;
   left: 80%;
   bottom: 5%;
   border-style: solid;
@@ -158,4 +158,9 @@ li a:hover:not(.active) {
   display: flex;
   justify-content: flex-start;
   width: auto;
+}
+.width-lists {
+  width: 30%;
+  margin-left: auto;
+  justify-content: flex-end;
 }

@@ -1,24 +1,36 @@
 <div class="container">
-    <div class="center">
-        <div class="frontContainer1" id="frontContainer1">
-            <h1 class="frontTitle"> Ernest Teniente </h1>
-        </div>
-        <div class="frontContainer" id="frontContainer">
-            <img class="frontErnestImage" src="https://inlab.fib.upc.edu/sites/default/files/styles/foto-perfil/public/pictures/picture-219-1615204632.jpg" width="100" height="230">
-           
-            <article class="frontArticle"> Ernest Teniente (PhD, UPC) is a full professor at the Department of Service and Information System Engineering at the Universitat Politècnica de Catalunya -- BarcelonaTech. Current director of the inLab FIB. He has also been a visiting researcher at the Politecnico di Milano and at the Universita' di Roma Tre, in Italy. He has been active in the fields of software engineering and databases for the past 20 years. He conducts research on conceptual modeling, automated reasoning on conceptual schemas, database updating problems and data integration. He is author of more than 60 peer reviewed publications in international conferences and journals in the areas of databases and software engineering, and he is regularly invited to serve on the Program Committees of international conferences on these areas. He has coordinated several national and local research projects and he regularly collaborates with several international research groups. His teaching experience includes undergraduate and postgraduate courses on software analysis and design, requirements engineering and advanced databases. He has supervised students at all levels (BSc, MSc, PhD). 
-            </article>
-        </div>
-        <br><br>
-        <div class="flexcontainer2">
-            <div class="btn-group">
-                <p>List of projects</p>
-                <% projects.forEach(function(project) { %>
-                    <form action="<%= project.url %>">
-                        <button type="submit" onclick="parent.open='<%= projects.url %>'" value="<%= project.title%>"> <%= project.title%> </button>
-                    </form>
-                <% }); %>
-            </div>
-        </div>
+  <div class="center">
+    <div class="frontContainer1" id="frontContainer1">
+      <h1 class="frontTitle">Ernest Teniente</h1>
     </div>
+    <div class="frontContainer" id="frontContainer">
+      <img
+        class="frontErnestImage"
+        src="https://inlab.fib.upc.edu/sites/default/files/styles/foto-perfil/public/pictures/picture-219-1615204632.jpg"
+        width="100"
+        height="230"
+      />
+
+      <article class="frontArticle">
+        Ernest Teniente (PhD, UPC) is a full professor at the Department of
+        Service and Information System Engineering at the Universitat
+        Politècnica de Catalunya -- BarcelonaTech. Current director of the inLab
+        FIB. He has also been a visiting researcher at the Politecnico di Milano
+        and at the Universita' di Roma Tre, in Italy. He has been active in the
+        fields of software engineering and databases for the past 20 years. He
+        conducts research on conceptual modeling, automated reasoning on
+        conceptual schemas, database updating problems and data integration. He
+        is author of more than 60 peer reviewed publications in international
+        conferences and journals in the areas of databases and software
+        engineering, and he is regularly invited to serve on the Program
+        Committees of international conferences on these areas. He has
+        coordinated several national and local research projects and he
+        regularly collaborates with several international research groups. His
+        teaching experience includes undergraduate and postgraduate courses on
+        software analysis and design, requirements engineering and advanced
+        databases. He has supervised students at all levels (BSc, MSc, PhD).
+      </article>
+    </div>
+    <br /><br />
+  </div>
 </div>

@@ -1,8 +1,6 @@
-// const { redirect } = require("express/lib/response");
 var getTablesData = require("../models/getModel");
 
 const indexView = (req, res) => {
-  // Renders the index view
   res.render("index", {
     title: "Ernest",
     layout: "./layouts/full-width",
@@ -11,37 +9,37 @@ const indexView = (req, res) => {
 
 //Render projects page
 const projectsView = (req, res) => {
-  const getScientificTable = new getTablesData();
-  let scientificData = getScientificTable
+  const getTable = new getTablesData(); // object with model of getTablesData
+  let scientificData = getTable
     .GetAllFromTable("scientific_output")
     .then((result) => {
       scientificData = result;
     });
-  const getAreasOfExpertiseTable = new getTablesData();
-  let areasOfExpertiseData = getAreasOfExpertiseTable
+  let areasOfExpertiseData = getTable
     .GetAllFromTable("areas_of_expertise")
     .then((result) => {
       areasOfExpertiseData = result;
     });
-  const getProjectsTable = new getTablesData();
-  getProjectsTable.GetAllFromTable("ernestprojects").then((result) => {
+  getTable.GetAllFromTable("ernestprojects").then((result) => {
     res.render("projects", {
       title: "Projects & publications",
       layout: "./layouts/full-width",
-      projects: result,
+      projectsOutput: result,
       scientificOutput: scientificData,
       AreasOfExpertiseOutput: areasOfExpertiseData,
     });
   });
 };
 
-
-
 // Render contact page
 const contactView = (req, res) => {
+  const getContactTable = new getTablesData();
+  getContactTable.GetAllFromTable("contactinfo").then((result) => {
   res.render("contact", {
     title: "Contact",
     layout: "./layouts/full-width",
+    contactOutput: result,
+  });
   });
 };
 

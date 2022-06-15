@@ -43,8 +43,24 @@ const contactView = (req, res) => {
   });
 };
 
+const aboutView = (req, res) => {
+  res.render("about", {
+    title: "About",
+    layout: "./layouts/full-width",
+  });
+}
+
+const publicationsView = (req, res) => {
+  res.render("publications", {
+    title: "Publications",
+    layout: "./layouts/full-width",
+  });
+}
+
 module.exports = {
   indexView,
   projectsView,
   contactView,
+  aboutView,
+  publicationsView, 
 };

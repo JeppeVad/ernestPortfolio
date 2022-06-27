@@ -1,166 +1,136 @@
-body {
-  background-color: rgb(238, 238, 238);
-  font-size: 26px;
-  margin: 0;
+body #container {
+  max-width: 100%;
+}
+#container {
+  margin: auto;
+  max-width: 1200px;
+  position: relative;
+  width: 100%;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  border: none;
+  margin: 5%;
   padding: 0;
+  vertical-align: baseline;
 }
-header,
-footer {
-  background-color: ghostwhite;
-  padding: 20px;
+div {
+  display: block;
 }
-
-main {
-  background-color: white;
-  padding: 20px;
-}
-
-.center {
-  margin-top: 1%;
-  text-align: center;
+body {
+  background: #dedede;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 150%;
 }
 
+#wrapper-content {
+  float: left;
+  height: auto;
+  position: relative;
+  width: 100%;
+}
+#wrapper #main-content {
+  padding: 28px 28px 10px;
+  width: 1114px;
+}
+#wrapper-content #main-content, #wrapper #footer {
+  float: none;
+  margin: 0 auto;
+}
+#header, #main-content, #wrapper-footer {
+  float: left;
+  height: auto;
+  position: relative;
+  width: 100%;
+}
+#content {
+  float: left;
+  margin: 0;
+  width: 734px;
+}
+.content-headline {
+  float: left;
+  margin: 0 0 20px;
+  width: 100%;
+}
+.entry-headline {
+  background: left 50% repeat-x url(images/pattern-headline.png);
+  color: black;
+  font-size: 27px;
+  line-height: 100%;
+  margin: 0 0 3px;
+  position: relative;
+  z-index: 50;
+}
 h1 {
   color: black;
-  font-size: 45px;
-  text-align: center;
+  font-size: 27px;
 }
-article {
-  font-size: large;
-  border-style: solid;
+h1, h2, h3, h4, h5, h6 {
+  font-family: Oswald, Arial, Helvetica, sans-serif;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+  line-height: 120%;
+  margin: 30px 0 7px;
 }
-/* Top navbar */
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+#content p, #content ul, #content ol, #content table, #content address {
+  margin-bottom: 15px;
+}
+p, ul, ol, li, dl, address {
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+  font-size: 16px;
+  text-align: left;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+.alignright {
+  float: right;
+  margin: 5px 0 20px 20px;
+}
+img {
+  height: auto;
+  max-width: 100%;
+}
 
+
+/* NAV BAR */
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 1;
+  margin: auto;
+  padding: 0;
   overflow: hidden;
-  background-color: #43a8e7;
-  position: fixed;
-  top: 0;
-  width: 100%;
+  background-color: #333;
 }
 
 li {
   float: left;
+
 }
 
 li a {
-  display:flex;
+  display: block;
   color: white;
   text-align: center;
-  align-content: flex-end;
-  justify-content: flex-end;
   padding: 14px 16px;
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
-  background-color: #0b89f6;
-}
-
-.active {
-  background-color: #0b89f6;
-}
-/* Personal information */
-.frontContainer {
-  display: flex;
-  justify-content: center;
-  
-  
-}
-/* have article on right side with 65% width */
-.frontArticle {
-  width: 65%;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: white;
-  padding: 20px;
-  border-radius: 10px;
-  text-align: left;
-}
-
-.frontErnestImage {
-  width: 20%;
-  border-style: solid;
-  margin-left: auto; 
-  margin-right: auto;
-  padding: 15px;
-}
-/* under image on left with 30% width */
-.frontQR {
-  align-content: flex-end;
-  width: 30%;
-  margin-left: auto; 
-  margin-right: auto;
-  background-color: white;
-  padding: 20px;
-  border-radius: 10px;
-  text-align: left;
-}
-.frontContainer1 {
-  display: flex;
-  justify-content: center;
-  align-content: center;
-}
-
-/* List of buttons  */
-.btn-group button {
-  justify-content: flex-start;
-  background-color: #43a8e7; /* background */
-  border: 1px solid black; /* border around buttons */
-  color: white; /* White text */
-  padding: 10px 24px; /* Some padding */
-  cursor: pointer; /* Pointer/hand icon */
-  width: 400%; /* width*/
-  display: block; /* Make the buttons appear below each other */
-}
-
-.btn-group button:not(:last-child) {
-  border-bottom: none; /* Prevent double borders */
-}
-
-/* Add a background color on hover */
-.btn-group button:hover {
-  background-color: #0b89f6;
-}
-
-.btn-group2 {
-  position: flex;
-  left: 80%;
-  bottom: 5%;
-  border-style: solid;
-}
-
-.btn-group2 button {
-  justify-content: flex-end;
-  align-content: flex-end;
-  background-color: #43a8e7; /* background */
-  border: 1px solid black; /* border around buttons */
-  color: white; /* White text */
-  padding: 10px 24px; /* Some padding */
-  cursor: pointer; /* Pointer/hand icon */
-  width: 100%; /* width*/
-  display: block; /* Make the buttons appear below each other */
-}
-
-.btn-group2 button:not(:last-child) {
-  border-bottom: none; /* Prevent double borders */
-}
-
-/* Add a background color on hover */
-.btn-group2 button:hover {
-  background-color: #0b89f6;
-}
-
-.flexcontainer2 {
-  display: flex;
-  justify-content: flex-start;
-  width: auto;
-}
-.width-lists {
-  width: 30%;
-  margin-left: auto;
-  justify-content: flex-end;
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
 }

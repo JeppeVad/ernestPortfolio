@@ -1,0 +1,2092 @@
+<?xml version="1.0"?>
+<dblpperson name="Ernest Teniente" pid="t/ErnestTeniente" n="116">
+	<person key="homepages/t/ErnestTeniente" mdate="2022-03-21">
+		<author pid="t/ErnestTeniente">Ernest Teniente</author>
+		<note type="affiliation">Polytechnic University of Catalonia, Barcelona, Spain</note>
+		<url>http://www.lsi.upc.es/~teniente/</url>
+		<url>https://orcid.org/0000-0001-8890-9638</url>
+		<url>https://www.wikidata.org/entity/Q77863260</url>
+	</person>
+	<r>
+		<article key="journals/fgcs/OriolGET21" mdate="2021-01-23">
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Embedding reactive behavior into artifact-centric business process models.</title>
+			<pages>97-110</pages>
+			<year>2021</year>
+			<volume>117</volume>
+			<journal>Future Gener. Comput. Syst.</journal>
+			<ee>https://doi.org/10.1016/j.future.2020.11.018</ee>
+			<url>db/journals/fgcs/fgcs117.html#OriolGET21</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/cikm/KoppelaarsOTCP21" mdate="2021-11-02">
+			<author pid="305/0135">Toon Koppelaars</author>
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="305/0370">Sergi Curto</author>
+			<author pid="305/0397">Eduard Pujol</author>
+			<title>UQJG: Identifying Transactions that Collaborate to Violate an SQL Assertion.</title>
+			<pages>3152-3156</pages>
+			<year>2021</year>
+			<booktitle>CIKM</booktitle>
+			<ee>https://doi.org/10.1145/3459637.3482210</ee>
+			<crossref>conf/cikm/2021</crossref>
+			<url>db/conf/cikm/cikm2021.html#KoppelaarsOTCP21</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/er/VilaSTV21" mdate="2021-11-03">
+			<author orcid="0000-0002-5621-6543" pid="294/3287">Marc Vila</author>
+			<author orcid="0000-0002-5904-8709" pid="89/6678">Maria-Ribera Sancho</author>
+			<author orcid="0000-0001-8890-9638" pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author orcid="0000-0002-3020-427X" pid="75/2244">Xavier Vilajosana</author>
+			<title>Semantics for Connectivity Management in IoT Sensing.</title>
+			<pages>297-311</pages>
+			<year>2021</year>
+			<booktitle>ER</booktitle>
+			<ee>https://doi.org/10.1007/978-3-030-89022-3_24</ee>
+			<crossref>conf/er/2021</crossref>
+			<url>db/conf/er/er2021.html#VilaSTV21</url>
+		</inproceedings>
+	</r>
+	<r>
+		<proceedings key="conf/caise/2021lncs" mdate="2021-06-24">
+			<editor orcid="0000-0001-9568-4035" pid="20/3634">Marcello La Rosa</editor>
+			<editor orcid="0000-0001-6739-4145" pid="s/SWSadiq">Shazia W. Sadiq</editor>
+			<editor orcid="0000-0001-8890-9638" pid="t/ErnestTeniente">Ernest Teniente</editor>
+			<title>Advanced Information Systems Engineering - 33rd International Conference, CAiSE 2021, Melbourne, VIC, Australia, June 28 - July 2, 2021, Proceedings</title>
+			<booktitle>CAiSE</booktitle>
+			<publisher>Springer</publisher>
+			<year>2021</year>
+			<series href="db/series/lncs/index.html">Lecture Notes in Computer Science</series>
+			<volume>12751</volume>
+			<isbn>978-3-030-79381-4</isbn>
+			<isbn>978-3-030-79382-1</isbn>
+			<ee>https://doi.org/10.1007/978-3-030-79382-1</ee>
+			<url>db/conf/caise/caise2021.html</url>
+		</proceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/icsoc/VilaST20" mdate="2021-06-09">
+			<author pid="294/3287">Marc Vila</author>
+			<author pid="89/6678">Maria-Ribera Sancho</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>XYZ Monitor: IoT Monitoring of Infrastructures Using Microservices.</title>
+			<pages>472-484</pages>
+			<year>2020</year>
+			<booktitle>ICSOC Workshops</booktitle>
+			<ee>https://doi.org/10.1007/978-3-030-76352-7_43</ee>
+			<crossref>conf/icsoc/2020w</crossref>
+			<url>db/conf/icsoc/icsoc2020w.html#VilaST20</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/sosym/EstanolMCT19" mdate="2021-12-09">
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author pid="33/8488">Jorge Munoz-Gama</author>
+			<author pid="52/5368">Josep Carmona 0001</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Conformance checking in UML artifact-centric business process models.</title>
+			<pages>2531-2555</pages>
+			<year>2019</year>
+			<volume>18</volume>
+			<journal>Softw. Syst. Model.</journal>
+			<number>4</number>
+			<ee>https://doi.org/10.1007/s10270-018-0681-6</ee>
+			<url>db/journals/sosym/sosym18.html#EstanolMCT19</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/sosym/FranconiMORT19" mdate="2020-09-18">
+			<author pid="f/EnricoFranconi">Enrico Franconi</author>
+			<author orcid="0000-0003-2323-3344" pid="90/626">Alessandro Mosca 0001</author>
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="42/5536">Guillem Rull</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>OCL
+				<sub>FO</sub>: first-order expressive OCL constraints for efficient integrity checking.
+			</title>
+			<pages>2655-2678</pages>
+			<year>2019</year>
+			<volume>18</volume>
+			<journal>Softw. Syst. Model.</journal>
+			<number>4</number>
+			<ee>https://doi.org/10.1007/s10270-018-0688-z</ee>
+			<url>db/journals/sosym/sosym18.html#FranconiMORT19</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/icsoc/OriolGET19" mdate="2019-10-28">
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Automatic Business Process Model Extension to Repair Constraint Violations.</title>
+			<pages>102-118</pages>
+			<year>2019</year>
+			<booktitle>ICSOC</booktitle>
+			<ee>https://doi.org/10.1007/978-3-030-33702-5_9</ee>
+			<crossref>conf/icsoc/2019</crossref>
+			<url>db/conf/icsoc/icsoc2019.html#OriolGET19</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/models/OrtizEMSTR19" mdate="2022-02-23">
+			<author pid="253/6296">Victor-Alejandro Ortiz</author>
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author pid="69/338">Maria-Cristina V. Marinescu</author>
+			<author pid="89/6678">Maria-Ribera Sancho</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="253/6188">Carmen Rueda</author>
+			<title>A Semantic Model to Fight Social Exclusion.</title>
+			<pages>730-731</pages>
+			<year>2019</year>
+			<booktitle>MoDELS (Companion)</booktitle>
+			<ee>https://doi.org/10.1109/MODELS-C.2019.00110</ee>
+			<crossref>conf/models/2019c</crossref>
+			<url>db/conf/models/models2019c.html#OrtizEMSTR19</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/sam/OriolT19" mdate="2019-09-10">
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Adapting Integrity Checking Techniques for Concurrent Operation Executions.</title>
+			<pages>235-248</pages>
+			<year>2019</year>
+			<booktitle>SAM</booktitle>
+			<ee>https://doi.org/10.1007/978-3-030-30690-8_14</ee>
+			<crossref>conf/sam/2019</crossref>
+			<url>db/conf/sam/sam2019.html#OriolT19</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/infsof/EstanolST18" mdate="2020-02-20">
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author pid="89/6678">Maria-Ribera Sancho</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Ensuring the semantic correctness of a BAUML artifact-centric BPM.</title>
+			<pages>147-162</pages>
+			<year>2018</year>
+			<volume>93</volume>
+			<journal>Inf. Softw. Technol.</journal>
+			<ee>https://doi.org/10.1016/j.infsof.2017.09.003</ee>
+			<url>db/journals/infsof/infsof93.html#EstanolST18</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/OriolT18" mdate="2018-06-05">
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>An Ontology-Based Framework for Describing Discoverable Data Services.</title>
+			<pages>220-235</pages>
+			<year>2018</year>
+			<booktitle>CAiSE</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-91563-0_14</ee>
+			<crossref>conf/caise/2018</crossref>
+			<url>db/conf/caise/caise2018.html#OriolT18</url>
+		</inproceedings>
+	</r>
+	<r>
+		<proceedings key="conf/bpm/2017w" mdate="2018-01-24">
+			<editor pid="t/ErnestTeniente">Ernest Teniente</editor>
+			<editor pid="61/267">Matthias Weidlich</editor>
+			<title>Business Process Management Workshops - BPM 2017 International Workshops, Barcelona, Spain, September 10-11, 2017, Revised Papers</title>
+			<booktitle>Business Process Management Workshops</booktitle>
+			<publisher>Springer</publisher>
+			<year>2018</year>
+			<series href="db/series/lnbip/index.html">Lecture Notes in Business Information Processing</series>
+			<volume>308</volume>
+			<isbn>978-3-319-74029-4</isbn>
+			<isbn>978-3-319-74030-0</isbn>
+			<ee>https://doi.org/10.1007/978-3-319-74030-0</ee>
+			<url>db/conf/bpm/bpmw2017.html</url>
+		</proceedings>
+	</r>
+	<r>
+		<article key="journals/jss/OriolT17" mdate="2020-02-24">
+			<author orcid="0000-0002-8845-8504" pid="150/7988">Xavier Oriol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Simplification of UML/OCL schemas for efficient reasoning.</title>
+			<pages>130-149</pages>
+			<year>2017</year>
+			<volume>128</volume>
+			<journal>J. Syst. Softw.</journal>
+			<ee>https://doi.org/10.1016/j.jss.2017.03.015</ee>
+			<url>db/journals/jss/jss128.html#OriolT17</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/software/BroringSSKKKPMA17" mdate="2020-06-08">
+			<author pid="89/7170">Arne Br&#246;ring</author>
+			<author pid="58/3289-2">Stefan Schmid 0002</author>
+			<author pid="73/7567">Corina Kim Schindhelm</author>
+			<author pid="97/5874">Abdelmajid Khelil</author>
+			<author pid="70/8102">Sebastian K&#228;bisch</author>
+			<author pid="193/9575">Denis Kramer</author>
+			<author orcid="0000-0003-2480-9261" pid="23/6145">Danh Le Phuoc</author>
+			<author pid="76/3367">Jelena Mitic</author>
+			<author pid="94/5032">Darko Anicic</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Enabling IoT Ecosystems through Platform Interoperability.</title>
+			<pages>54-61</pages>
+			<year>2017</year>
+			<volume>34</volume>
+			<journal>IEEE Softw.</journal>
+			<number>1</number>
+			<ee>https://doi.org/10.1109/MS.2017.2</ee>
+			<ee>http://doi.ieeecomputersociety.org/10.1109/MS.2017.2</ee>
+			<url>db/journals/software/software34.html#BroringSSKKKPMA17</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/birthday/CabotGST17" mdate="2022-02-21">
+			<author pid="18/948">Jordi Cabot</author>
+			<author pid="42/5204-1">Cristina G&#243;mez 0001</author>
+			<author pid="89/6678">Maria-Ribera Sancho</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>30 Years of Contributions to Conceptual Modeling.</title>
+			<pages>7-23</pages>
+			<year>2017</year>
+			<booktitle>Conceptual Modeling Perspectives</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-67271-7_2</ee>
+			<crossref>conf/birthday/2017olive</crossref>
+			<url>db/conf/birthday/olive2017.html#CabotGST17</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/GiacomoOET17" mdate="2017-09-16">
+			<author pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+			<author orcid="0000-0002-8845-8504" pid="150/7988">Xavier Oriol</author>
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Linking Data and BPMN Processes to Achieve Executable Models.</title>
+			<pages>612-628</pages>
+			<year>2017</year>
+			<booktitle>CAiSE</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-59536-8_38</ee>
+			<crossref>conf/caise/2017</crossref>
+			<url>db/conf/caise/caise2017.html#GiacomoOET17</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/er/OriolT17" mdate="2017-11-03">
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>OCL
+				<sub>UNIV</sub>: Expressive UML/OCL Conceptual Schemas for Finite Reasoning.
+			</title>
+			<pages>354-369</pages>
+			<year>2017</year>
+			<booktitle>ER</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-69904-2_28</ee>
+			<crossref>conf/er/2017</crossref>
+			<url>db/conf/er/er2017.html#OriolT17</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/icsoc/EstanolMOPTV17" mdate="2021-10-14">
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author orcid="0000-0003-2666-9995" pid="m/EsperanzaMarcos">Esperanza Marcos</author>
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="210/7576">Francisco J. P&#233;rez Blanco</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="15/5055">Juan M. Vara</author>
+			<title>Validation of Service Blueprint Models by Means of Formal Simulation Techniques.</title>
+			<pages>80-95</pages>
+			<year>2017</year>
+			<booktitle>ICSOC</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-69035-3_6</ee>
+			<crossref>conf/icsoc/2017</crossref>
+			<url>db/conf/icsoc/icsoc2017.html#EstanolMOPTV17</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/sebd/EstanolMOTT17" mdate="2019-05-28">
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author pid="70/7250">Mirjana Mazuran</author>
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="t/LetiziaTanca">Letizia Tanca</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Process Conformance Checking by Relaxing Data Dependencies.</title>
+			<pages>90</pages>
+			<year>2017</year>
+			<booktitle>SEBD</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-2037/paper_15.pdf</ee>
+			<crossref>conf/sebd/2017</crossref>
+			<url>db/conf/sebd/sebd2017.html#EstanolMOTT17</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/semweb/GiacomoLOST17" mdate="2021-09-07">
+			<author pid="g/GDGiacomo">Giuseppe De Giacomo</author>
+			<author orcid="0000-0002-0628-242X" pid="91/2168">Domenico Lembo</author>
+			<author pid="150/7988">Xavier Oriol</author>
+			<author orcid="0000-0002-8391-8049" pid="09/4413">Domenico Fabio Savo</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Practical Update Management in Ontology-Based Data Access.</title>
+			<pages>225-242</pages>
+			<year>2017</year>
+			<booktitle>ISWC (1)</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-68288-4_14</ee>
+			<ee>https://www.wikidata.org/entity/Q62048017</ee>
+			<crossref>conf/semweb/2017-1</crossref>
+			<url>db/conf/semweb/iswc2017-1.html#GiacomoLOST17</url>
+		</inproceedings>
+	</r>
+	<r>
+		<proceedings key="conf/birthday/2017olive" mdate="2022-02-21">
+			<editor pid="18/948">Jordi Cabot</editor>
+			<editor pid="42/5204-1">Cristina G&#243;mez 0001</editor>
+			<editor pid="p/OscarPastor">Oscar Pastor 0001</editor>
+			<editor pid="89/6678">Maria-Ribera Sancho</editor>
+			<editor pid="t/ErnestTeniente">Ernest Teniente</editor>
+			<title>Conceptual Modeling Perspectives.</title>
+			<publisher>Springer</publisher>
+			<year>2017</year>
+			<isbn>978-3-319-67270-0</isbn>
+			<isbn>978-3-319-67271-7</isbn>
+			<ee>https://doi.org/10.1007/978-3-319-67271-7</ee>
+			<url>db/conf/birthday/olive2017.html</url>
+		</proceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/edbt/MeccaRST16" mdate="2021-01-29">
+			<author pid="m/GMecca">Giansalvatore Mecca</author>
+			<author pid="42/5536">Guillem Rull</author>
+			<author pid="32/5873">Donatello Santoro</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>GROM: a General Rewriter of Semantic Mappings.</title>
+			<pages>592-595</pages>
+			<year>2016</year>
+			<booktitle>EDBT</booktitle>
+			<ee type="oa">https://doi.org/10.5441/002/edbt.2016.56</ee>
+			<crossref>conf/edbt/2016</crossref>
+			<url>db/conf/edbt/edbt2016.html#MeccaRST16</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/edbt/OriolTR16" mdate="2021-01-29">
+			<author orcid="0000-0002-8845-8504" pid="150/7988">Xavier Oriol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="42/5536">Guillem Rull</author>
+			<title>TINTIN: a Tool for INcremental INTegrity checking of Assertions in SQL Server.</title>
+			<pages>632-635</pages>
+			<year>2016</year>
+			<booktitle>EDBT</booktitle>
+			<ee type="oa">https://doi.org/10.5441/002/edbt.2016.66</ee>
+			<crossref>conf/edbt/2016</crossref>
+			<url>db/conf/edbt/edbt2016.html#OriolTR16</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/dke/MeccaRST15" mdate="2017-06-14">
+			<author pid="m/GMecca">Giansalvatore Mecca</author>
+			<author pid="42/5536">Guillem Rull</author>
+			<author orcid="0000-0002-5651-8584" pid="32/5873">Donatello Santoro</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Ontology-based mappings.</title>
+			<pages>8-29</pages>
+			<year>2015</year>
+			<volume>98</volume>
+			<journal>Data Knowl. Eng.</journal>
+			<ee>https://doi.org/10.1016/j.datak.2015.07.003</ee>
+			<url>db/journals/dke/dke98.html#MeccaRST15</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/dke/OriolTT15" mdate="2017-06-05">
+			<author orcid="0000-0002-8845-8504" pid="150/7988">Xavier Oriol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="94/8050">Albert Tort</author>
+			<title>Computing repairs for constraint violations in UML/OCL conceptual schemas.</title>
+			<pages>39-58</pages>
+			<year>2015</year>
+			<volume>99</volume>
+			<journal>Data Knowl. Eng.</journal>
+			<ee>https://doi.org/10.1016/j.datak.2015.06.006</ee>
+			<url>db/journals/dke/dke99.html#OriolTT15</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/sosym/RullFQTU15" mdate="2020-09-18">
+			<author pid="42/5536">Guillem Rull</author>
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>AuRUS: explaining the validation of UML/OCL conceptual schemas.</title>
+			<pages>953-980</pages>
+			<year>2015</year>
+			<volume>14</volume>
+			<journal>Softw. Syst. Model.</journal>
+			<number>2</number>
+			<ee>https://doi.org/10.1007/s10270-013-0350-8</ee>
+			<url>db/journals/sosym/sosym14.html#RullFQTU15</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/EstanolST15" mdate="2019-06-02">
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author orcid="0000-0002-5904-8709" pid="89/6678">Maria-Ribera Sancho</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Verification and Validation of UML Artifact-Centric Business Process Models.</title>
+			<pages>434-449</pages>
+			<year>2015</year>
+			<booktitle>CAiSE</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-19069-3_27</ee>
+			<ee>https://www.wikidata.org/entity/Q61736140</ee>
+			<crossref>conf/caise/2015</crossref>
+			<url>db/conf/caise/caise2015.html#EstanolST15</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/er/OriolT15" mdate="2017-06-02">
+			<author orcid="0000-0002-8845-8504" pid="150/7988">Xavier Oriol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Incremental Checking of OCL Constraints with Aggregates Through SQL.</title>
+			<pages>199-213</pages>
+			<year>2015</year>
+			<booktitle>ER</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-25264-3_15</ee>
+			<crossref>conf/er/2015</crossref>
+			<url>db/conf/er/er2015.html#OriolT15</url>
+		</inproceedings>
+	</r>
+	<r>
+		<proceedings key="conf/iceis/2015-1" mdate="2015-08-03">
+			<editor pid="42/6348">Slimane Hammoudi</editor>
+			<editor pid="m/LAMaciaszek">Leszek A. Maciaszek</editor>
+			<editor pid="t/ErnestTeniente">Ernest Teniente</editor>
+			<title>ICEIS 2015 - Proceedings of the 17th International Conference on Enterprise Information Systems, Volume 1, Barcelona, Spain, 27-30 April, 2015</title>
+			<isbn>978-989-758-096-3</isbn>
+			<booktitle>ICEIS (1)</booktitle>
+			<publisher>SciTePress</publisher>
+			<year>2015</year>
+			<url>db/conf/iceis/iceis2015-1.html</url>
+		</proceedings>
+	</r>
+	<r>
+		<proceedings key="conf/iceis/2015-2" mdate="2015-08-03">
+			<editor pid="42/6348">Slimane Hammoudi</editor>
+			<editor pid="m/LAMaciaszek">Leszek A. Maciaszek</editor>
+			<editor pid="t/ErnestTeniente">Ernest Teniente</editor>
+			<title>ICEIS 2015 - Proceedings of the 17th International Conference on Enterprise Information Systems, Volume 2, Barcelona, Spain, 27-30 April, 2015</title>
+			<isbn>978-989-758-097-0</isbn>
+			<booktitle>ICEIS (2)</booktitle>
+			<publisher>SciTePress</publisher>
+			<year>2015</year>
+			<url>db/conf/iceis/iceis2015-2.html</url>
+		</proceedings>
+	</r>
+	<r>
+		<proceedings key="conf/iceis/2015-3" mdate="2015-08-03">
+			<editor pid="42/6348">Slimane Hammoudi</editor>
+			<editor pid="m/LAMaciaszek">Leszek A. Maciaszek</editor>
+			<editor pid="t/ErnestTeniente">Ernest Teniente</editor>
+			<title>ICEIS 2015 - Proceedings of the 17th International Conference on Enterprise Information Systems, Volume 3, Barcelona, Spain, 27-30 April, 2015</title>
+			<isbn>978-989-758-098-7</isbn>
+			<booktitle>ICEIS (3)</booktitle>
+			<publisher>SciTePress</publisher>
+			<year>2015</year>
+			<url>db/conf/iceis/iceis2015-3.html</url>
+		</proceedings>
+	</r>
+	<r>
+		<proceedings key="conf/iceis/2015sp" mdate="2018-11-02">
+			<editor pid="42/6348">Slimane Hammoudi</editor>
+			<editor pid="m/LAMaciaszek">Leszek A. Maciaszek</editor>
+			<editor pid="t/ErnestTeniente">Ernest Teniente</editor>
+			<editor pid="70/4201">Olivier Camp</editor>
+			<editor orcid="0000-0001-9071-8873" pid="c/JAMCordeiro">Jos&#233; Cordeiro</editor>
+			<title>Enterprise Information Systems - 17th International Conference, ICEIS 2015, Barcelona, Spain, April 27-30, 2015, Revised Selected Papers</title>
+			<booktitle>ICEIS (Revised Selected Papers)</booktitle>
+			<publisher>Springer</publisher>
+			<year>2015</year>
+			<series href="db/series/lnbip/index.html">Lecture Notes in Business Information Processing</series>
+			<volume>241</volume>
+			<isbn>978-3-319-29132-1</isbn>
+			<ee>https://doi.org/10.1007/978-3-319-29133-8</ee>
+			<url>db/conf/iceis/iceis2015sp.html</url>
+		</proceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/bmsd/EstanolQST14" mdate="2022-01-03">
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+			<author orcid="0000-0002-5904-8709" pid="89/6678">Maria-Ribera Sancho</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Specifying Artifact-Centric Business Process Models in UML.</title>
+			<pages>62-81</pages>
+			<year>2014</year>
+			<booktitle>BMSD</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-20052-1_4</ee>
+			<ee>https://www.wikidata.org/entity/Q61736138</ee>
+			<crossref>conf/bmsd/2014</crossref>
+			<url>db/conf/bmsd/bmsd2014.html#EstanolQST14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/cikm/CalvaneseMET14" mdate="2019-06-02">
+			<author pid="c/DiegoCalvanese">Diego Calvanese</author>
+			<author orcid="0000-0002-8021-3430" pid="85/1455">Marco Montali</author>
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Verifiable UML Artifact-Centric Business Process Models.</title>
+			<pages>1289-1298</pages>
+			<year>2014</year>
+			<booktitle>CIKM</booktitle>
+			<ee>https://doi.org/10.1145/2661829.2662050</ee>
+			<ee>https://www.wikidata.org/entity/Q62044502</ee>
+			<crossref>conf/cikm/2014</crossref>
+			<url>db/conf/cikm/cikm2014.html#CalvaneseMET14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/er/OriolTT14" mdate="2017-05-25">
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="94/8050">Albert Tort</author>
+			<title>Fixing Up Non-executable Operations in UML/OCL Conceptual Schemas.</title>
+			<pages>232-245</pages>
+			<year>2014</year>
+			<booktitle>ER</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-12206-9_19</ee>
+			<crossref>conf/er/2014</crossref>
+			<url>db/conf/er/er2014.html#OriolTT14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/jelia/FranconiMORT14" mdate="2019-08-06">
+			<author pid="f/EnricoFranconi">Enrico Franconi</author>
+			<author pid="90/626">Alessandro Mosca 0001</author>
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="42/5536">Guillem Rull</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Logic Foundations of the OCL Modelling Language.</title>
+			<pages>657-664</pages>
+			<year>2014</year>
+			<booktitle>JELIA</booktitle>
+			<ee>https://doi.org/10.1007/978-3-319-11558-0_49</ee>
+			<crossref>conf/jelia/2014</crossref>
+			<url>db/conf/jelia/jelia2014.html#FranconiMORT14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/models/OriolT14" mdate="2019-05-28">
+			<author pid="150/7988">Xavier Oriol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Incremental Checking of OCL Constraints through SQL Queries.</title>
+			<pages>23-32</pages>
+			<year>2014</year>
+			<booktitle>OCL@MoDELS</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-1285/paper03.pdf</ee>
+			<crossref>conf/models/2014ocl</crossref>
+			<url>db/conf/models/ocl2014.html#OriolT14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/models/BruckerCDGGJTW14" mdate="2020-11-03">
+			<author pid="b/AchimDBrucker">Achim D. Brucker</author>
+			<author pid="56/4917">Tony Clark 0001</author>
+			<author pid="32/8164">Carolina Dania</author>
+			<author pid="66/1355">Geri Georg</author>
+			<author pid="g/MartinGogolla">Martin Gogolla</author>
+			<author pid="10/4610">Fr&#233;d&#233;ric Jouault</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="63/5369">Burkhart Wolff</author>
+			<title>Panel Discussion: Proposals for Improving OCL.</title>
+			<pages>83-99</pages>
+			<year>2014</year>
+			<booktitle>OCL@MoDELS</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-1285/paper09.pdf</ee>
+			<crossref>conf/models/2014ocl</crossref>
+			<url>db/conf/models/ocl2014.html#BruckerCDGGJTW14</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article publtype="informal" key="journals/corr/CalvaneseMET14" mdate="2018-08-13">
+			<author pid="c/DiegoCalvanese">Diego Calvanese</author>
+			<author pid="85/1455">Marco Montali</author>
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Verifiable UML Artifact-Centric Business Process Models (Extended Version).</title>
+			<year>2014</year>
+			<volume>abs/1408.5094</volume>
+			<journal>CoRR</journal>
+			<ee type="oa">http://arxiv.org/abs/1408.5094</ee>
+			<url>db/journals/corr/corr1408.html#CalvaneseMET14</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/comsis/RullFTU13" mdate="2020-03-27">
+			<author pid="42/5536">Guillem Rull</author>
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Validation of schema mappings with nested queries.</title>
+			<pages>79-104</pages>
+			<year>2013</year>
+			<volume>10</volume>
+			<journal>Comput. Sci. Inf. Syst.</journal>
+			<number>1</number>
+			<ee type="oa">https://doi.org/10.2298/CSIS120713042R</ee>
+			<url>db/journals/comsis/comsis10.html#RullFTU13</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/infsof/FarreQRTU13" mdate="2020-03-27">
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+			<author pid="42/5536">Guillem Rull</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Automated reasoning on UML conceptual schemas with derived information and queries.</title>
+			<pages>1529-1550</pages>
+			<year>2013</year>
+			<volume>55</volume>
+			<journal>Inf. Softw. Technol.</journal>
+			<number>9</number>
+			<ee>https://doi.org/10.1016/j.infsof.2013.02.010</ee>
+			<url>db/journals/infsof/infsof55.html#FarreQRTU13</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/er/MeccaRST13" mdate="2017-06-15">
+			<author pid="m/GMecca">Giansalvatore Mecca</author>
+			<author pid="42/5536">Guillem Rull</author>
+			<author orcid="0000-0002-5651-8584" pid="32/5873">Donatello Santoro</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Semantic-Based Mappings.</title>
+			<pages>255-269</pages>
+			<year>2013</year>
+			<booktitle>ER</booktitle>
+			<ee>https://doi.org/10.1007/978-3-642-41924-9_22</ee>
+			<crossref>conf/er/2013</crossref>
+			<url>db/conf/er/er2013.html#MeccaRST13</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/icsoc/EstanolST13" mdate="2019-06-02">
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author orcid="0000-0002-5904-8709" pid="89/6678">Maria-Ribera Sancho</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Reasoning on UML Data-Centric Business Process Models.</title>
+			<pages>437-445</pages>
+			<year>2013</year>
+			<booktitle>ICSOC</booktitle>
+			<ee type="oa">https://doi.org/10.1007/978-3-642-45005-1_32</ee>
+			<ee>https://www.wikidata.org/entity/Q61736141</ee>
+			<crossref>conf/icsoc/2013</crossref>
+			<url>db/conf/icsoc/icsoc2013.html#EstanolST13</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/sigmod/RullBSKMT13" mdate="2018-11-06">
+			<author pid="42/5536">Guillem Rull</author>
+			<author pid="b/PhilipABernstein">Philip A. Bernstein</author>
+			<author pid="131/4227">Ivo Garcia dos Santos</author>
+			<author pid="75/4070">Yannis Katsis</author>
+			<author pid="m/SergeyMelnik">Sergey Melnik 0001</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Query containment in entity SQL.</title>
+			<pages>1169-1172</pages>
+			<year>2013</year>
+			<booktitle>SIGMOD Conference</booktitle>
+			<ee>https://doi.org/10.1145/2463676.2463711</ee>
+			<crossref>conf/sigmod/2013</crossref>
+			<url>db/conf/sigmod/sigmod2013.html#RullBSKMT13</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article publtype="informal" key="journals/dagstuhl-reports/CalvaneseHT13" mdate="2017-06-07">
+			<author pid="c/DiegoCalvanese">Diego Calvanese</author>
+			<author pid="h/SvenHartmann">Sven Hartmann</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Automated Reasoning on Conceptual Schemas (Dagstuhl Seminar 13211).</title>
+			<pages>43-77</pages>
+			<year>2013</year>
+			<volume>3</volume>
+			<journal>Dagstuhl Reports</journal>
+			<number>5</number>
+			<ee type="oa">https://doi.org/10.4230/DagRep.3.5.43</ee>
+			<url>db/journals/dagstuhl-reports/dagstuhl-reports3.html#CalvaneseHT13</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/dke/QueraltACT12" mdate="2019-07-29">
+			<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+			<author pid="65/6588">Alessandro Artale</author>
+			<author orcid="0000-0001-5174-9693" pid="c/DiegoCalvanese">Diego Calvanese</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>OCL-Lite: Finite reasoning on UML/OCL conceptual schemas.</title>
+			<pages>1-22</pages>
+			<year>2012</year>
+			<volume>73</volume>
+			<journal>Data Knowl. Eng.</journal>
+			<ee>https://doi.org/10.1016/j.datak.2011.09.004</ee>
+			<ee>https://www.wikidata.org/entity/Q64360044</ee>
+			<url>db/journals/dke/dke73.html#QueraltACT12</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/tosem/QueraltT12" mdate="2018-11-06">
+			<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Verification and Validation of UML Conceptual Schemas with OCL Constraints.</title>
+			<pages>13:1-13:41</pages>
+			<year>2012</year>
+			<volume>21</volume>
+			<journal>ACM Trans. Softw. Eng. Methodol.</journal>
+			<number>2</number>
+			<ee>https://doi.org/10.1145/2089116.2089123</ee>
+			<url>db/journals/tosem/tosem21.html#QueraltT12</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/bpm/EstanolQST12" mdate="2017-05-21">
+			<author pid="125/0332">Montserrat Esta&#241;ol</author>
+			<author pid="82/6372">Anna Queralt</author>
+			<author pid="89/6678">Maria-Ribera Sancho</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Artifact-Centric Business Process Models in UML.</title>
+			<pages>292-303</pages>
+			<year>2012</year>
+			<booktitle>Business Process Management Workshops</booktitle>
+			<ee>https://doi.org/10.1007/978-3-642-36285-9_34</ee>
+			<crossref>conf/bpm/2012w</crossref>
+			<url>db/conf/bpm/bpmw2012.html#EstanolQST12</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/dlog/QueraltACT12" mdate="2019-05-28">
+			<author pid="82/6372">Anna Queralt</author>
+			<author pid="65/6588">Alessandro Artale</author>
+			<author pid="c/DiegoCalvanese">Diego Calvanese</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>OCL-Lite: A Decidable (Yet Expressive) Fragment of OCL.</title>
+			<year>2012</year>
+			<booktitle>Description Logics</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-846/paper_55.pdf</ee>
+			<crossref>conf/dlog/2012</crossref>
+			<url>db/conf/dlog/dlog2012.html#QueraltACT12</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/er/QueraltRTFU10" mdate="2020-03-27">
+			<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+			<author pid="42/5536">Guillem Rull</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>AuRUS: Automated Reasoning on UML/OCL Schemas.</title>
+			<pages>438-444</pages>
+			<year>2010</year>
+			<booktitle>ER</booktitle>
+			<ee>https://doi.org/10.1007/978-3-642-16373-9_32</ee>
+			<crossref>conf/er/2010</crossref>
+			<url>db/conf/er/er2010.html#QueraltRTFU10</url>
+		</inproceedings>
+	</r>
+	<r>
+		<proceedings key="conf/jisbd/2010" mdate="2011-11-17">
+			<editor pid="t/ErnestTeniente">Ernest Teniente</editor>
+			<editor pid="a/SilviaMaraAbrahao">Silvia Abrah&#227;o</editor>
+			<title>XV Jornadas de Ingenier&#237;a del Software y Bases de Datos (JISBD 2010), Valencia, Spain, September 7-10, 2010. Actas</title>
+			<isbn>978-84-92812-51-6</isbn>
+			<year>2010</year>
+			<booktitle>JISBD</booktitle>
+			<url>db/conf/jisbd/jisbd2010.html</url>
+			<publisher>IBERGARCETA Pub. S.L.</publisher>
+		</proceedings>
+	</r>
+	<r>
+		<article key="journals/jss/CabotT09" mdate="2020-02-24">
+			<author orcid="0000-0003-2418-2489" pid="18/948">Jordi Cabot</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Incremental integrity checking of UML/OCL conceptual schemas.</title>
+			<pages>1459-1478</pages>
+			<year>2009</year>
+			<volume>82</volume>
+			<journal>J. Syst. Softw.</journal>
+			<number>9</number>
+			<ee>https://doi.org/10.1016/j.jss.2009.03.009</ee>
+			<url>db/journals/jss/jss82.html#CabotT09</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/QueraltT09" mdate="2018-12-23">
+			<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Reasoning on UML Conceptual Schemas with Operations.</title>
+			<pages>47-62</pages>
+			<year>2009</year>
+			<booktitle>CAiSE</booktitle>
+			<ee type="oa">https://doi.org/10.1007/978-3-642-02144-2_9</ee>
+			<crossref>conf/caise/2009</crossref>
+			<url>db/conf/caise/caise2009.html#QueraltT09</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/edbt/RullFTU09" mdate="2020-03-27">
+			<author pid="42/5536">Guillem Rull</author>
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>MVT: a schema mapping validation tool.</title>
+			<pages>1120-1123</pages>
+			<year>2009</year>
+			<booktitle>EDBT</booktitle>
+			<ee>https://doi.org/10.1145/1516360.1516492</ee>
+			<crossref>conf/edbt/2009</crossref>
+			<url>db/conf/edbt/edbt2009.html#RullFTU09</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/jisbd/QueraltT09" mdate="2009-09-18">
+			<author pid="82/6372">Anna Queralt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Decidable Reasoning in UML Schemas with Constraints.</title>
+			<pages>354-254</pages>
+			<year>2009</year>
+			<booktitle>JISBD</booktitle>
+			<crossref>conf/jisbd/2009</crossref>
+			<url>db/conf/jisbd/jisbd2009.html#QueraltT09</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/dke/RullFTU08" mdate="2020-03-27">
+			<author pid="42/5536">Guillem Rull</author>
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Validation of mappings between schemas.</title>
+			<pages>414-437</pages>
+			<year>2008</year>
+			<volume>66</volume>
+			<journal>Data Knowl. Eng.</journal>
+			<number>3</number>
+			<ee>https://doi.org/10.1016/j.datak.2008.04.009</ee>
+			<url>db/journals/dke/dke66.html#RullFTU08</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/sosym/QueraltT08" mdate="2020-09-18">
+			<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>A platform independent model for the electronic marketplace domain.</title>
+			<pages>219-235</pages>
+			<year>2008</year>
+			<volume>7</volume>
+			<journal>Softw. Syst. Model.</journal>
+			<number>2</number>
+			<ee>https://doi.org/10.1007/s10270-007-0047-y</ee>
+			<url>db/journals/sosym/sosym7.html#QueraltT08</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/sosym/CostalGQRT08" mdate="2022-02-21">
+			<author orcid="0000-0002-7340-0414" pid="13/2106">Dolors Costal</author>
+			<author pid="42/5204-1">Cristina G&#243;mez 0001</author>
+			<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+			<author pid="41/3374">Ruth Ravent&#243;s</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Improving the definition of general constraints in UML.</title>
+			<pages>469-486</pages>
+			<year>2008</year>
+			<volume>7</volume>
+			<journal>Softw. Syst. Model.</journal>
+			<number>4</number>
+			<ee>https://doi.org/10.1007/s10270-007-0078-4</ee>
+			<url>db/journals/sosym/sosym7.html#CostalGQRT08</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/QueraltT08a" mdate="2019-05-28">
+			<author pid="82/6372">Anna Queralt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Validation of UML Conceptual Schemas with Operations.</title>
+			<pages>101-104</pages>
+			<year>2008</year>
+			<booktitle>CAiSE Forum</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-344/paper26.pdf</ee>
+			<crossref>conf/caise/2008fo</crossref>
+			<url>db/conf/caise/caisefo2008.html#QueraltT08a</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/CostalGQT08" mdate="2022-02-21">
+			<author orcid="0000-0002-7340-0414" pid="13/2106">Dolors Costal</author>
+			<author pid="42/5204-1">Cristina G&#243;mez 0001</author>
+			<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Drawing Preconditions of Operation Contracts from Conceptual Schemas.</title>
+			<pages>266-280</pages>
+			<year>2008</year>
+			<booktitle>CAiSE</booktitle>
+			<ee type="oa">https://doi.org/10.1007/978-3-540-69534-9_22</ee>
+			<crossref>conf/caise/2008</crossref>
+			<url>db/conf/caise/caise2008.html#CostalGQT08</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/QueraltT08" mdate="2018-12-23">
+			<author orcid="0000-0003-2782-2955" pid="82/6372">Anna Queralt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Decidable Reasoning in UML Schemas with Constraints.</title>
+			<pages>281-295</pages>
+			<year>2008</year>
+			<booktitle>CAiSE</booktitle>
+			<ee type="oa">https://doi.org/10.1007/978-3-540-69534-9_23</ee>
+			<crossref>conf/caise/2008</crossref>
+			<url>db/conf/caise/caise2008.html#QueraltT08</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/dexa/RullFTU08" mdate="2020-03-27">
+			<author pid="42/5536">Guillem Rull</author>
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Providing Explanations for Database Schema Validation.</title>
+			<pages>660-667</pages>
+			<year>2008</year>
+			<booktitle>DEXA</booktitle>
+			<ee>https://doi.org/10.1007/978-3-540-85654-2_56</ee>
+			<crossref>conf/dexa/2008</crossref>
+			<url>db/conf/dexa/dexa2008.html#RullFTU08</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/sigmod/FarreRTU08" mdate="2020-03-27">
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author pid="42/5536">Guillem Rull</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>SVTe: a tool to validate database schemas giving explanations.</title>
+			<pages>9</pages>
+			<year>2008</year>
+			<booktitle>DBTest</booktitle>
+			<ee>https://doi.org/10.1145/1385269.1385281</ee>
+			<crossref>conf/sigmod/2008dbtest</crossref>
+			<url>db/conf/sigmod/dbtest2008.html#FarreRTU08</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/scp/CabotT07" mdate="2021-02-17">
+			<author orcid="0000-0003-2418-2489" pid="18/948">Jordi Cabot</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Transformation techniques for OCL constraints.</title>
+			<pages>179-195</pages>
+			<year>2007</year>
+			<volume>68</volume>
+			<journal>Sci. Comput. Program.</journal>
+			<number>3</number>
+			<ee type="oa">https://doi.org/10.1016/j.scico.2007.05.001</ee>
+			<url>db/journals/scp/scp68.html#CabotT07</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/cikm/RullFTU07" mdate="2020-03-27">
+			<author pid="42/5536">Guillem Rull</author>
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Computing explanations for unlively queries in databases.</title>
+			<pages>955-958</pages>
+			<year>2007</year>
+			<crossref>conf/cikm/2007</crossref>
+			<booktitle>CIKM</booktitle>
+			<ee>https://doi.org/10.1145/1321440.1321584</ee>
+			<url>db/conf/cikm/cikm2007.html#RullFTU07</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/icdt/FarreNTU07" mdate="2020-09-05">
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author orcid="0000-0002-9347-1885" pid="n/WernerNutt">Werner Nutt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Containment of Conjunctive Queries over Databases with Null Values.</title>
+			<pages>389-403</pages>
+			<year>2007</year>
+			<crossref>conf/icdt/2007</crossref>
+			<booktitle>ICDT</booktitle>
+			<ee>https://doi.org/10.1007/11965893_27</ee>
+			<url>db/conf/icdt/icdt2007.html#FarreNTU07</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/jisbd/CabotT07" mdate="2011-11-17">
+			<author pid="18/948">Jordi Cabot</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Comprobaci&#243;n eficiente de restricciones de integridad en OCL.</title>
+			<pages>391-392</pages>
+			<year>2007</year>
+			<booktitle>JISBD</booktitle>
+			<crossref>conf/jisbd/2007</crossref>
+			<url>db/conf/jisbd/jisbd2007.html#CabotT07</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/jods/QueraltT06" mdate="2020-12-16">
+			<author pid="82/6372">Anna Queralt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Specifying the Semantics of Operation Contracts in Conceptual Modeling.</title>
+			<pages>33-56</pages>
+			<year>2006</year>
+			<crossref>journals/jods/2006-7</crossref>
+			<journal>J. Data Semant.</journal>
+			<ee>https://doi.org/10.1007/11890591_2</ee>
+			<url>db/journals/jods/jods7.html#QueraltT06</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/CabotT06" mdate="2018-12-23">
+			<author orcid="0000-0003-2418-2489" pid="18/948">Jordi Cabot</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Incremental Evaluation of OCL Constraints.</title>
+			<pages>81-95</pages>
+			<year>2006</year>
+			<crossref>conf/caise/2006</crossref>
+			<booktitle>CAiSE</booktitle>
+			<ee type="oa">https://doi.org/10.1007/11767138_7</ee>
+			<url>db/conf/caise/caise2006.html#CabotT06</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/CostalGT06" mdate="2022-02-21">
+			<author pid="13/2106">Dolors Costal</author>
+			<author pid="42/5204-1">Cristina G&#243;mez 0001</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Declarative Specification of Taxonomic Constraint Enforcement in Conceptual Schemas.</title>
+			<year>2006</year>
+			<crossref>conf/caise/2006fo</crossref>
+			<booktitle>CAiSE Forum</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-231/Paper08.pdf</ee>
+			<url>db/conf/caise/caisefo2006.html#CostalGT06</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/ecmdafa/CabotT06" mdate="2017-06-02">
+			<author orcid="0000-0003-2418-2489" pid="18/948">Jordi Cabot</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Constraint Support in MDA Tools: A Survey.</title>
+			<pages>256-267</pages>
+			<year>2006</year>
+			<crossref>conf/ecmdafa/2006</crossref>
+			<booktitle>ECMDA-FA</booktitle>
+			<ee>https://doi.org/10.1007/11787044_20</ee>
+			<url>db/conf/ecmdafa/ecmdafa2006.html#CabotT06</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/er/QueraltT06" mdate="2017-05-25">
+			<author pid="82/6372">Anna Queralt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Reasoning on UML Class Diagrams with OCL Constraints.</title>
+			<pages>497-512</pages>
+			<year>2006</year>
+			<crossref>conf/er/2006</crossref>
+			<booktitle>ER</booktitle>
+			<ee>https://doi.org/10.1007/11901181_37</ee>
+			<url>db/conf/er/er2006.html#QueraltT06</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/models/CostalGQRT06" mdate="2022-02-21">
+			<author pid="13/2106">Dolors Costal</author>
+			<author pid="42/5204-1">Cristina G&#243;mez 0001</author>
+			<author pid="82/6372">Anna Queralt</author>
+			<author pid="41/3374">Ruth Ravent&#243;s</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Facilitating the Definition of General Constraints in UML.</title>
+			<pages>260-274</pages>
+			<year>2006</year>
+			<crossref>conf/models/2006</crossref>
+			<booktitle>MoDELS</booktitle>
+			<ee>https://doi.org/10.1007/11880240_19</ee>
+			<url>db/conf/models/models2006.html#CostalGQRT06</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/sac/CabotT06" mdate="2018-11-06">
+			<author orcid="0000-0003-2418-2489" pid="18/948">Jordi Cabot</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Transforming OCL constraints: a context change approach.</title>
+			<pages>1196-1201</pages>
+			<year>2006</year>
+			<crossref>conf/sac/2006</crossref>
+			<booktitle>SAC</booktitle>
+			<ee>https://doi.org/10.1145/1141277.1141562</ee>
+			<url>db/conf/sac/sac2006.html#CabotT06</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/dke/FarreTU05" mdate="2020-03-27">
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Checking query containment with the CQC method.</title>
+			<pages>163-223</pages>
+			<year>2005</year>
+			<volume>53</volume>
+			<journal>Data Knowl. Eng.</journal>
+			<number>2</number>
+			<ee>https://doi.org/10.1016/j.datak.2004.08.002</ee>
+			<url>db/journals/dke/dke53.html#FarreTU05</url>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/CabotT05" mdate="2018-12-23">
+			<author orcid="0000-0003-2418-2489" pid="18/948">Jordi Cabot</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Computing the Relevant Instances That May Violate an OCL Constraint.</title>
+			<pages>48-62</pages>
+			<year>2005</year>
+			<crossref>conf/caise/2005</crossref>
+			<booktitle>CAiSE</booktitle>
+			<ee type="oa">https://doi.org/10.1007/11431855_5</ee>
+			<url>db/conf/caise/caise2005.html#CabotT05</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/QueraltT05" mdate="2019-05-28">
+			<author pid="82/6372">Anna Queralt</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>On the Semantics of Operation Contracts in Conceptual Modeling.</title>
+			<year>2005</year>
+			<crossref>conf/caise/2005fo</crossref>
+			<booktitle>CAiSE Short Paper Proceedings</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-161/FORUM_25.pdf</ee>
+			<url>db/conf/caise/caisefo2005.html#QueraltT05</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/dsdm/CabotT05" mdate="2019-05-28">
+			<author pid="18/948">Jordi Cabot</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Generaci&#243;n Autom&#225;tica de Restricciones de Integridad: Estado del Arte.</title>
+			<year>2005</year>
+			<booktitle>DSDM</booktitle>
+			<ee type="oa">http://ceur-ws.org/Vol-157/paper06.pdf</ee>
+			<crossref>conf/dsdm/2005</crossref>
+			<url>db/conf/dsdm/dsdm2005.html#CabotT05</url>
+		</inproceedings>
+	</r>
+	<r>
+		<proceedings key="conf/caise/2005w2" mdate="2006-03-01">
+			<editor pid="c/JBdCastro">Jaelson Castro</editor>
+			<editor pid="t/ErnestTeniente">Ernest Teniente</editor>
+			<title>Advanced Information Systems Engineering, 17th International Conference, CAiSE 2005, Porto, Portugal, June 13-17, 2005, Proceedings of the CAiSE'05 Workshops, Vol. 2</title>
+			<publisher>FEUP Edi&#231;&#245;es, Porto</publisher>
+			<isbn>972-752-077-4</isbn>
+			<booktitle>CAiSE Workshops (2)</booktitle>
+			<year>2005</year>
+			<url>db/conf/caise/caise2005w-2.html</url>
+		</proceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/dexa/FarreTU04" mdate="2017-05-26">
+			<author pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>A New Approach for Checking Schema Validation Properties.</title>
+			<pages>77-86</pages>
+			<ee>https://doi.org/10.1007/978-3-540-30075-5_8</ee>
+			<year>2004</year>
+			<crossref>conf/dexa/2004</crossref>
+			<booktitle>DEXA</booktitle>
+			<url>db/conf/dexa/dexa2004.html#FarreTU04</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/uml/CabotT04" mdate="2017-06-05">
+			<author orcid="0000-0003-2418-2489" pid="18/948">Jordi Cabot</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Determining the Structural Events That May Violate an Integrity Constraint.</title>
+			<pages>320-334</pages>
+			<ee>https://doi.org/10.1007/978-3-540-30187-5_23</ee>
+			<year>2004</year>
+			<crossref>conf/uml/2004</crossref>
+			<booktitle>UML</booktitle>
+			<url>db/conf/uml/uml2004.html#CabotT04</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/vldb/TenienteFUBG04" mdate="2019-06-07">
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="80/1912">Carles Farr&#233;</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<author pid="02/70">Carlos Beltr&#225;n</author>
+			<author pid="89/8828">David Ga&#241;&#225;n</author>
+			<title>SVT: Schema Validation Tool for Microsoft SQL-Server.</title>
+			<pages>1349-1352</pages>
+			<year>2004</year>
+			<crossref>conf/vldb/2004</crossref>
+			<booktitle>VLDB</booktitle>
+			<ee>http://www.vldb.org/conf/2004/DEMP25.PDF</ee>
+			<ee>https://doi.org/10.1016/B978-012088469-8.50144-3</ee>
+			<url>db/conf/vldb/vldb2004.html#TenienteFUBG04</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/dke/MayolT03" mdate="2017-05-20">
+			<author pid="59/914">Enric Mayol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Consistency preserving updates in deductive databases.</title>
+			<pages>61-103</pages>
+			<year>2003</year>
+			<volume>47</volume>
+			<journal>Data Knowl. Eng.</journal>
+			<number>1</number>
+			<ee>https://doi.org/10.1016/S0169-023X(03)00061-2</ee>
+			<url>db/journals/dke/dke47.html#MayolT03</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/tplp/TenienteU03" mdate="2020-02-13">
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>On the abductive or deductive nature of database schema validation and update processing problems.</title>
+			<pages>287-327</pages>
+			<year>2003</year>
+			<volume>3</volume>
+			<journal>Theory Pract. Log. Program.</journal>
+			<number>3</number>
+			<url>db/journals/tplp/tplp3.html#TenienteU03</url>
+			<ee>https://doi.org/10.1017/S1471068402001631</ee>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/adbis/FarreTU03" mdate="2017-05-21">
+			<author pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Query Containment with Negated IDB Predicates.</title>
+			<pages>411-429</pages>
+			<ee>https://doi.org/10.1007/978-3-540-39403-7_31</ee>
+			<year>2003</year>
+			<crossref>conf/adbis/2003</crossref>
+			<booktitle>ADBIS</booktitle>
+			<url>db/conf/adbis/adbis2003.html#FarreTU03</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/er/CabotOT03" mdate="2017-06-02">
+			<author orcid="0000-0003-2418-2489" pid="18/948">Jordi Cabot</author>
+			<author pid="89/4942">Antoni Oliv&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Entity Types Derived by Symbol-Generating Rules.</title>
+			<pages>376-389</pages>
+			<ee>https://doi.org/10.1007/978-3-540-39648-2_30</ee>
+			<year>2003</year>
+			<crossref>conf/er/2003</crossref>
+			<booktitle>ER</booktitle>
+			<url>db/conf/er/er2003.html#CabotOT03</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/iclp/FarreTU03" mdate="2020-03-27">
+			<author orcid="0000-0001-5814-3782" pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Handling Existential Derived Predicates in View Updating.</title>
+			<pages>148-162</pages>
+			<ee>https://doi.org/10.1007/978-3-540-24599-5_11</ee>
+			<year>2003</year>
+			<crossref>conf/iclp/2003</crossref>
+			<booktitle>ICLP</booktitle>
+			<url>db/conf/iclp/iclp2003.html#FarreTU03</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/uml/CabotOT03" mdate="2017-06-05">
+			<author orcid="0000-0003-2418-2489" pid="18/948">Jordi Cabot</author>
+			<author pid="89/4942">Antoni Oliv&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Representing Temporal Information in UML.</title>
+			<pages>44-59</pages>
+			<ee>https://doi.org/10.1007/978-3-540-45221-8_5</ee>
+			<year>2003</year>
+			<crossref>conf/uml/2003</crossref>
+			<booktitle>UML</booktitle>
+			<url>db/conf/uml/uml2003.html#CabotOT03</url>
+		</inproceedings>
+	</r>
+	<r>
+		<incollection key="books/idea/mddb2003/ParaboschiSBT03" mdate="2019-09-16">
+			<author orcid="0000-0003-0399-1738" pid="05/600">Stefano Paraboschi</author>
+			<author pid="52/3314">Giuseppe Sindoni</author>
+			<author pid="77/5283">Elena Baralis</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Materialized Views in Multidimensional Databases.</title>
+			<pages>222-251</pages>
+			<year>2003</year>
+			<crossref>books/idea/Rafanelli03</crossref>
+			<booktitle>Multidimensional Databases</booktitle>
+			<url>db/books/collections/mddb2003.html#ParaboschiSBT03</url>
+			<ee>https://doi.org/10.4018/978-1-59140-053-0.ch008</ee>
+		</incollection>
+	</r>
+	<r>
+		<article publtype="informal" key="journals/corr/cs-DB-0312046" mdate="2020-01-10">
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>On the Abductive or Deductive Nature of Database Schema Validation and Update Processing Problems</title>
+			<ee type="oa">http://arxiv.org/abs/cs/0312046</ee>
+			<year>2003</year>
+			<journal>CoRR</journal>
+			<volume>cs.DB/0312046</volume>
+			<url>db/journals/corr/corr0312.html#cs-DB-0312046</url>
+		</article>
+	</r>
+	<r>
+		<article key="journals/is/OliveT02" mdate="2017-05-20">
+			<author pid="89/4942">Antoni Oliv&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Derived types and taxonomic constraints in conceptual modeling.</title>
+			<pages>391-409</pages>
+			<year>2002</year>
+			<volume>27</volume>
+			<journal>Inf. Syst.</journal>
+			<number>6</number>
+			<url>db/journals/is/is27.html#OliveT02</url>
+			<ee>https://doi.org/10.1016/S0306-4379(02)00011-X</ee>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/CostalST02" mdate="2017-05-26">
+			<author pid="13/2106">Dolors Costal</author>
+			<author pid="89/6678">Maria-Ribera Sancho</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Understanding Redundancy in UML Models for Object-Oriented Analysis.</title>
+			<pages>659-674</pages>
+			<year>2002</year>
+			<crossref>conf/caise/2002</crossref>
+			<booktitle>CAiSE</booktitle>
+			<ee>https://doi.org/10.1007/3-540-47961-9_45</ee>
+			<url>db/conf/caise/caise2002.html#CostalST02</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/er/CostalOT01" mdate="2017-05-25">
+			<author pid="13/2106">Dolors Costal</author>
+			<author pid="89/4942">Antoni Oliv&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Relationship Type Refinement in Conceptual Models with Multiple Classification.</title>
+			<pages>397-411</pages>
+			<year>2001</year>
+			<crossref>conf/er/2001</crossref>
+			<booktitle>ER</booktitle>
+			<ee>https://doi.org/10.1007/3-540-45581-7_30</ee>
+			<url>db/conf/er/er2001.html#CostalOT01</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/foiks/MayolT00" mdate="2017-05-23">
+			<author pid="59/914">Enric Mayol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Dealing with Modification Requests During View Updating and Integrity Constraint Maintenance.</title>
+			<pages>192-212</pages>
+			<ee>https://doi.org/10.1007/3-540-46564-2_12</ee>
+			<year>2000</year>
+			<crossref>conf/foiks/2000</crossref>
+			<booktitle>FoIKS</booktitle>
+			<url>db/conf/foiks/foiks2000.html#MayolT00</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/dexa/MayolT99" mdate="2017-05-24">
+			<author pid="59/914">Enric Mayol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Addressing Efficiency Issues During the Process of Integrity Maintenance.</title>
+			<pages>270-281</pages>
+			<ee>https://doi.org/10.1007/3-540-48309-8_25</ee>
+			<year>1999</year>
+			<crossref>conf/dexa/1999</crossref>
+			<booktitle>DEXA</booktitle>
+			<url>db/conf/dexa/dexa99.html#MayolT99</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/dexa/FarreTU99" mdate="2017-05-24">
+			<author pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>The Constructive Method for Query Containment Checking.</title>
+			<pages>583-593</pages>
+			<ee>https://doi.org/10.1007/3-540-48309-8_54</ee>
+			<year>1999</year>
+			<crossref>conf/dexa/1999</crossref>
+			<booktitle>DEXA</booktitle>
+			<url>db/conf/dexa/dexa99.html#FarreTU99</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/er/MayolT99" mdate="2017-05-24">
+			<author pid="59/914">Enric Mayol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>A Survey of Current Methods for Integrity Constraint Maintenance and View Updating.</title>
+			<pages>62-73</pages>
+			<year>1999</year>
+			<crossref>conf/er/99w</crossref>
+			<booktitle>ER (Workshops)</booktitle>
+			<url>db/conf/er/erw99.html#MayolT99</url>
+			<ee>https://doi.org/10.1007/3-540-48054-4_6</ee>
+			<cite label="CFPT94">journals/tods/CeriFPT94</cite>
+			<cite label="CHM95">journals/tods/ChenHM95</cite>
+			<cite label="CST95">journals/jiis/ConsoleSD95</cite>
+			<cite label="Dec96">conf/iclp/Decker96</cite>
+			<cite label="Dec97">...</cite>
+			<cite label="FP93">conf/rules/FraternaliP93</cite>
+			<cite label="FP97">journals/tkde/FraternaliP97</cite>
+			<cite label="Ger94">conf/ride/Gertz94</cite>
+			<cite label="GL90">journals/ngc/GuessoumL90</cite>
+			<cite label="KM90">conf/vldb/KakasM90</cite>
+			<cite label="LT97">...</cite>
+			<cite label="Maa98">...</cite>
+			<cite label="ML91">journals/tods/MoerkotteL91</cite>
+			<cite label="MT93">conf/daisd/MayolT93</cite>
+			<cite label="MT97">conf/dexa/MayolT97</cite>
+			<cite label="Sch96">conf/fmldo/Schewe96</cite>
+			<cite label="Sch98">journals/dke/Schewe98</cite>
+			<cite label="TO95">journals/vldb/TenienteO95</cite>
+			<cite label="Win90">...</cite>
+			<cite label="W&#252;t93">conf/icde/Wuthrich93</cite>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/dexa/FarreTU98" mdate="2017-05-23">
+			<author pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Query Containment Checking as a View Updating Problem.</title>
+			<pages>310-321</pages>
+			<ee>https://doi.org/10.1007/BFb0054492</ee>
+			<year>1998</year>
+			<crossref>conf/dexa/1998</crossref>
+			<booktitle>DEXA</booktitle>
+			<url>db/conf/dexa/dexa98.html#FarreTU98</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/jisbd/MayolPTUF98" mdate="2003-12-12">
+			<author pid="59/914">Enric Mayol</author>
+			<author pid="p/JAPastorCollado">Joan Antoni Pastor</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<author pid="80/1912">Carles Farr&#233;</author>
+			<title>Integrated Treatment of Updates in Deductive Databases: the FOLRE Project (extended abstract).</title>
+			<pages>3-10</pages>
+			<year>1998</year>
+			<crossref>conf/jisbd/1998</crossref>
+			<booktitle>JIDBD</booktitle>
+			<url>db/conf/jisbd/jidbd1998.html#MayolPTUF98</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/dexa/MayolT97" mdate="2017-05-23">
+			<author pid="59/914">Enric Mayol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Structuring the Process of Integrity Maintenance.</title>
+			<pages>262-275</pages>
+			<year>1997</year>
+			<crossref>conf/dexa/1997</crossref>
+			<booktitle>DEXA</booktitle>
+			<url>db/conf/dexa/dexa97.html#MayolT97</url>
+			<ee>https://doi.org/10.1007/BFb0022037</ee>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/dood/CostalTU97" mdate="2017-05-23">
+			<author pid="13/2106">Dolors Costal</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>An Approach to Obtain Intensional Translation for Consistent View Updating.</title>
+			<pages>175-192</pages>
+			<year>1997</year>
+			<crossref>conf/dood/1997</crossref>
+			<booktitle>DOOD</booktitle>
+			<url>db/conf/dood/dood97.html#CostalTU97</url>
+			<ee>https://doi.org/10.1007/3-540-63792-3_15</ee>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/jisbd/FarreTU97" mdate="2003-12-10">
+			<author pid="80/1912">Carles Farr&#233;</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Comprobaci&#243;n del Contenimiento de Consultas mediante Actualizaci&#243;n de Vistas.</title>
+			<pages>91-100</pages>
+			<year>1997</year>
+			<crossref>conf/jisbd/1997</crossref>
+			<booktitle>JIDBD</booktitle>
+			<url>db/conf/jisbd/jidbd1997.html#FarreTU97</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/rules/MayolPTU97" mdate="2017-05-23">
+			<author pid="59/914">Enric Mayol</author>
+			<author pid="p/JAPastorCollado">Joan Antoni Pastor</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>FOLRE: A Deductive Database System for the Integrated Treatment of Updates.</title>
+			<pages>35-50</pages>
+			<year>1997</year>
+			<crossref>conf/rules/1997</crossref>
+			<booktitle>Rules in Database Systems</booktitle>
+			<url>db/conf/rules/rules97.html#MayolPTU97</url>
+			<ee>https://doi.org/10.1007/3-540-63516-5_16</ee>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/rules/FraternaliTU97" mdate="2017-05-23">
+			<author pid="f/PieroFraternali">Piero Fraternali</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>Validating Active Rules by Planning.</title>
+			<pages>181-196</pages>
+			<year>1997</year>
+			<crossref>conf/rules/1997</crossref>
+			<booktitle>Rules in Database Systems</booktitle>
+			<url>db/conf/rules/rules97.html#FraternaliTU97</url>
+			<ee>https://doi.org/10.1007/3-540-63516-5_25</ee>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/vldb/BaralisPT97" mdate="2012-09-17">
+			<crossref>conf/vldb/97</crossref>
+			<author pid="77/5283">Elena Baralis</author>
+			<author pid="05/600">Stefano Paraboschi</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Materialized Views Selection in a Multidimensional Database.</title>
+			<pages>156-165</pages>
+			<year>1997</year>
+			<booktitle>VLDB</booktitle>
+			<url>db/conf/vldb/vldb97.html#BaralisPT97</url>
+			<ee>http://www.vldb.org/conf/1997/P156.PDF</ee>
+			<cite label="AAD+96">conf/vldb/AgarwalADGNRS96</cite>
+			<cite label="GBLP96">conf/icde/GrayBLP96</cite>
+			<cite label="GHRU97">conf/icde/GuptaHRU97</cite>
+			<cite label="Gup97">conf/icdt/Gupta97</cite>
+			<cite label="HRU96">conf/sigmod/HarinarayanRU96</cite>
+			<cite label="Kim96">books/wi/Kimball96</cite>
+			<cite label="RSS96">conf/sigmod/RossSS96</cite>
+			<cite label="SDNR96">conf/vldb/ShuklaDNR96</cite>
+			<cite label="Wid95">...</cite>
+			<cite label="ZGHW95">conf/sigmod/ZhugeGHW95</cite>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/caise/CostalTUF96" mdate="2017-05-22">
+			<author pid="13/2106">Dolors Costal</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<author pid="80/1912">Carles Farr&#233;</author>
+			<title>Handling Conceptual Model Validation by Planning.</title>
+			<pages>255-271</pages>
+			<year>1996</year>
+			<crossref>conf/caise/1996</crossref>
+			<booktitle>CAiSE</booktitle>
+			<url>db/conf/caise/caise96.html#CostalTUF96</url>
+			<ee>https://doi.org/10.1007/3-540-61292-0_15</ee>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/edbt/DeckerTU96" mdate="2017-05-21">
+			<author pid="d/HendrikDecker">Hendrik Decker</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>How to Tackle Schema Validation by View Updating.</title>
+			<pages>535-549</pages>
+			<cdrom>EDBT96/P535.pdf</cdrom>
+			<year>1996</year>
+			<booktitle>EDBT</booktitle>
+			<url>db/conf/edbt/edbt96.html#DeckerTU96</url>
+			<crossref>conf/edbt/96</crossref>
+			<ee>https://doi.org/10.1007/BFb0014177</ee>
+			<cite label="ABC82">journals/csur/AdrionBC82</cite>
+			<cite label="BDM88">conf/edbt/BryDM88</cite>
+			<cite label="BM86">conf/vldb/BryM86</cite>
+			<cite label="BR86">conf/sigmod/BancilhonR86</cite>
+			<cite label="Bub86">...</cite>
+			<cite label="CDM93">...</cite>
+			<cite label="CO92">conf/caise/CostalO92</cite>
+			<cite label="Dec89">...</cite>
+			<cite label="GMN84">journals/csur/GallaireMN84</cite>
+			<cite label="GSUW94">conf/pods/GuptaSUW94</cite>
+			<cite label="IKH92">conf/cade/InoueKH92</cite>
+			<cite label="Kun84">...</cite>
+			<cite label="LMSS93">conf/pods/LevyMSS93</cite>
+			<cite label="LS95">conf/pods/LevyS95</cite>
+			<cite label="Llo87">books/sp/Lloyd87</cite>
+			<cite label="Min82">conf/cade/Minker82</cite>
+			<cite label="Oli91">conf/vldb/Olive91</cite>
+			<cite label="OS95">conf/caise/OliveS95</cite>
+			<cite label="TO92">conf/edbt/TenienteO92</cite>
+			<cite label="TO95">journals/vldb/TenienteO95</cite>
+			<cite label="TU95">conf/icde/TenienteU95</cite>
+			<cite label="Ull88-1">books/cs/Ullman88</cite>
+			<cite label="Ull88-2">books/cs/Ullman89</cite>
+			<cite label="UO92">conf/vldb/UrpiO92</cite>
+			<cite label="VF85">...</cite>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/jisbd/TenienteFMMPSU96" mdate="2003-12-11">
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="80/1912">Carles Farr&#233;</author>
+			<author pid="m/CarmeMartin">Carme Mart&#237;n</author>
+			<author pid="59/914">Enric Mayol</author>
+			<author pid="p/JAPastorCollado">Joan Antoni Pastor</author>
+			<author pid="14/1818">Jaume Sistac</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>FOLRE: Un sistema papa et tratamiento integrado de actualizaciones en bases de datos.</title>
+			<pages>132-141</pages>
+			<year>1996</year>
+			<crossref>conf/jisbd/1996</crossref>
+			<booktitle>JIDBD</booktitle>
+			<url>db/conf/jisbd/jidbd1996.html#TenienteFMMPSU96</url>
+		</inproceedings>
+	</r>
+	<r>
+		<article key="journals/vldb/TenienteO95" mdate="2020-03-12">
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="89/4942">Antoni Oliv&#233;</author>
+			<title>Updating Knowledge Bases While Maintaining Their Consistency</title>
+			<journal>VLDB J.</journal>
+			<volume>4</volume>
+			<number>2</number>
+			<year>1995</year>
+			<pages>193-241</pages>
+			<ee type="oa">http://www.vldb.org/journal/VLDBJ4/P193.pdf</ee>
+			<url>db/journals/vldb/vldb4.html#TenienteO95</url>
+			<cite label="Abiteboul 1988">conf/icdt/Abiteboul88</cite>
+			<cite label="Atzeni &#38; Torlone 1992">journals/dke/AtzeniT92</cite>
+			<cite label="Bancilhion &#38; Ramakrishnan 1986">conf/sigmod/BancilhonR86</cite>
+			<cite label="Bancilhon &#38; Spyratos 1981">journals/tods/BancilhonS81</cite>
+			<cite label="Bol 1993">journals/jlp/Bol93</cite>
+			<cite label="Bol et al. 1991">journals/tcs/BolAK91</cite>
+			<cite label="Bry 1990">conf/iclp/Bry90</cite>
+			<cite label="Bry et al. 1990">conf/lpar/BryMM91</cite>
+			<cite label="Cavedon &#38; Lloyd 1989">journals/jlp/CavedonL89</cite>
+			<cite label="Ceri et al. 1992">conf/daisd/CeriFPT92</cite>
+			<cite label="Ceri &#38; Widom 1990">conf/vldb/CeriW90</cite>
+			<cite label="Clark 1978">conf/adbt/Clark77</cite>
+			<cite label="Cosmodakis &#38; Papadimitriou 1984">journals/jacm/CosmadakisP84</cite>
+			<cite label="Date 1986">...</cite>
+			<cite label="Dayal &#38; Bernstein 1982">journals/tods/DayalB82</cite>
+			<cite label="Decker 1989">...</cite>
+			<cite label="Decker 1990">conf/icdt/Decker90</cite>
+			<cite label="Decker &#38; Cavedon 1990">conf/csl/DeckerC89</cite>
+			<cite label="Fagin et al. 1986">journals/acr/FaginKUV86</cite>
+			<cite label="Fagin et al. 1983">conf/pods/FaginUV83</cite>
+			<cite label="Furtado &#38; Casanova 1985">...</cite>
+			<cite label="Gallaire et al. 1984">journals/csur/GallaireMN84</cite>
+			<cite label="G&#228;rdenfors 1988">...</cite>
+			<cite label="Guessom &#38; Lloyd 1990">journals/ngc/GuessoumL90</cite>
+			<cite label="Guessom &#38; Lloyd 1991">journals/ngc/GuessoumL91</cite>
+			<cite label="Kakas &#38; Mancarella 1990">conf/vldb/KakasM90</cite>
+			<cite label="Keller 1985">conf/pods/Keller85</cite>
+			<cite label="Keller 1986">conf/vldb/Keller86</cite>
+			<cite label="Kowalski 1992">journals/jlp/Kowalski92</cite>
+			<cite label="Kunen 1989">journals/jlp/Kunen89</cite>
+			<cite label="Langerak 1990">journals/tods/Langerak90</cite>
+			<cite label="Larson &#38; Sheth 1991">journals/is/LarsonS91</cite>
+			<cite label="Lloyd 1987">books/sp/Lloyd87</cite>
+			<cite label="Lloyd &#38; Shepherdson 1991">journals/jlp/LloydS91</cite>
+			<cite label="Lloyd &#38; Topor 1984">journals/jlp/LloydT84</cite>
+			<cite label="Manchanda &#38; Warren 1988">books/mk/minker88/ManchandraW88</cite>
+			<cite label="Masunaga 1984">conf/vldb/Masunaga84</cite>
+			<cite label="Moerkotte &#38; Lockemann 1991">journals/tods/MoerkotteL91</cite>
+			<cite label="Nicolas 1982">journals/acta/Nicolas82</cite>
+			<cite label="Oliv&#233; 1989">conf/vldb/Olive89</cite>
+			<cite label="Oliv&#233; 1991">conf/vldb/Olive91</cite>
+			<cite label="Reiter 1984">...</cite>
+			<cite label="Sadri &#38; Kowalski 1988">books/mk/minker88/SadriK88</cite>
+			<cite label="Teniente 1992">...</cite>
+			<cite label="Teniente &#38; Oliv&#233; 1992">conf/edbt/TenienteO92</cite>
+			<cite label="Teniente &#38; Oliv&#233; 1994">...</cite>
+			<cite label="Tomasic 1988">conf/icdt/Tomasic88</cite>
+			<cite label="Torlone &#38; Atzeni 1991">conf/dood/TorloneA91</cite>
+			<cite label="Ullman 1988">books/cs/Ullman88</cite>
+			<cite label="Urp&#237; 1993">...</cite>
+			<cite label="Urp&#237; 1992">conf/vldb/UrpiO92</cite>
+			<cite label="Winslett 1990">...</cite>
+		</article>
+	</r>
+	<r>
+		<inproceedings key="conf/deductive/Teniente95" mdate="2012-05-29">
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>An Abductive Framework to Handle Consistency-preserving Updates in Deductive Databases.</title>
+			<pages>111-125</pages>
+			<year>1995</year>
+			<crossref>conf/deductive/1995</crossref>
+			<booktitle>Deductive Databases / Abduction in Deductive Databases</booktitle>
+			<url>db/conf/deductive/deductive95.html#Teniente95</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/icde/TenienteU95" mdate="2017-05-17">
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>A Common Framework for Classifying and Specifying Deductive Database Updating Problems.</title>
+			<pages>173-182</pages>
+			<cdrom>ICDE95/P173.pdf</cdrom>
+			<year>1995</year>
+			<booktitle>ICDE</booktitle>
+			<url>db/conf/icde/icde95.html#TenienteU95</url>
+			<crossref>conf/icde/95</crossref>
+			<ee>https://doi.org/10.1109/ICDE.1995.380395</ee>
+			<ee>http://doi.ieeecomputersociety.org/10.1109/ICDE.1995.380395</ee>
+			<cite label="Abi88">conf/icdt/Abiteboul88</cite>
+			<cite label="BDM88">conf/edbt/BryDM88</cite>
+			<cite label="CW90">conf/vldb/CeriW90</cite>
+			<cite label="CW91">conf/vldb/CeriW91</cite>
+			<cite label="DW89">journals/dke/DasW89</cite>
+			<cite label="Dec90">conf/icdt/Decker90</cite>
+			<cite label="GL91">journals/ngc/GuessoumL91</cite>
+			<cite label="GCM+94">conf/icde/CelmaGMD94</cite>
+			<cite label="GMN84">journals/csur/GallaireMN84</cite>
+			<cite label="GMS93">conf/sigmod/GuptaMS93</cite>
+			<cite label="HCK+90">conf/sigmod/HansonCKW90</cite>
+			<cite label="HD92">conf/deductive/HarrisonD92</cite>
+			<cite label="KM90">conf/vldb/KakasM90</cite>
+			<cite label="Kow83">conf/ifip/Kowalski83</cite>
+			<cite label="K&#252;c91">conf/dood/Kuchenhoff91</cite>
+			<cite label="Llo87">books/sp/Lloyd87</cite>
+			<cite label="ML91">journals/tods/MoerkotteL91</cite>
+			<cite label="Oli91">conf/vldb/Olive91</cite>
+			<cite label="QW91">journals/tkde/QianW91</cite>
+			<cite label="RCB=89">conf/vldb/RosenthalCBB89</cite>
+			<cite label="SK88">books/mk/minker88/SadriK88</cite>
+			<cite label="TA91">conf/dood/TorloneA91</cite>
+			<cite label="TO92">conf/edbt/TenienteO92</cite>
+			<cite label="TO95">journals/vldb/TenienteO95</cite>
+			<cite label="Ull88">books/cs/Ullman88</cite>
+			<cite label="UO92">conf/vldb/UrpiO92</cite>
+			<cite label="UO94">conf/ride/UrpiO94</cite>
+			<cite label="W&#252;t93">conf/icde/Wuthrich93</cite>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/daisd/TenienteU94" mdate="2019-07-26">
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="35/1865">Toni Urp&#237;</author>
+			<title>A Common Framework for Classifying and Specifying Deductive Database Updating Problems.</title>
+			<pages>135-158</pages>
+			<year>1994</year>
+			<crossref>conf/daisd/1994</crossref>
+			<booktitle>DAISD</booktitle>
+			<url>db/conf/daisd/daisd94.html#TenienteU94</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/daisd/MayolT93" mdate="2019-07-26">
+			<author pid="59/914">Enric Mayol</author>
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>Incorporating Modification Requests in Updating Consistent Knowledge Bases.</title>
+			<pages>335-359</pages>
+			<year>1993</year>
+			<crossref>conf/daisd/1993</crossref>
+			<booktitle>DAISD</booktitle>
+			<url>db/conf/daisd/daisd93.html#MayolT93</url>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/edbt/TenienteO92" mdate="2017-05-20">
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<author pid="89/4942">Antoni Oliv&#233;</author>
+			<title>The Events Method for View Updating in Deductive Databases.</title>
+			<pages>245-260</pages>
+			<cdrom>EDBT92/P245.pdf</cdrom>
+			<crossref>conf/edbt/92</crossref>
+			<year>1992</year>
+			<booktitle>EDBT</booktitle>
+			<url>db/conf/edbt/edbt92.html#TenienteO92</url>
+			<ee>https://doi.org/10.1007/BFb0032435</ee>
+			<cite>conf/icdt/Abiteboul88</cite>
+			<cite>journals/tods/BancilhonS81</cite>
+			<cite>conf/sigmod/BancilhonR86</cite>
+			<cite>journals/jlp/CavedonL89</cite>
+			<cite>journals/tods/DayalB82</cite>
+			<cite>conf/icdt/Decker90</cite>
+			<cite>books/sp/kimrb85/FurtadoC85</cite>
+			<cite>journals/ngc/GuessoumL90</cite>
+			<cite>...</cite>
+			<cite>conf/daisd/Kakas90</cite>
+			<cite>conf/vldb/KakasM90</cite>
+			<cite>conf/adbt/Kowalski77</cite>
+			<cite>conf/ifip/NicolasY83</cite>
+			<cite>conf/vldb/Olive89</cite>
+			<cite>conf/vldb/Olive91</cite>
+			<cite>conf/icdt/Tomasic88</cite>
+		</inproceedings>
+	</r>
+	<r>
+		<inproceedings key="conf/daisd/Teniente90" mdate="2019-07-26">
+			<author pid="t/ErnestTeniente">Ernest Teniente</author>
+			<title>The Internal Events Method for View Updating in Deductive Databases.</title>
+			<pages>173-190</pages>
+			<year>1990</year>
+			<crossref>conf/daisd/1990</crossref>
+			<booktitle>DAISD</booktitle>
+			<url>db/conf/daisd/daisd90.html#Teniente90</url>
+		</inproceedings>
+	</r>
+	<coauthors n="81" nc="2">
+		<co c="0" n="2">
+			<na f="a/Abrah=atilde=o:Silvia_Mara" pid="a/SilviaMaraAbrahao">Silvia Mara Abrah&#227;o</na>
+			<na>Silvia Abrah&#227;o</na>
+		</co>
+		<co c="1">
+			<na f="a/Anicic:Darko" pid="94/5032">Darko Anicic</na>
+		</co>
+		<co c="0">
+			<na f="a/Artale:Alessandro" pid="65/6588">Alessandro Artale</na>
+		</co>
+		<co c="0">
+			<na f="b/Baralis:Elena" pid="77/5283">Elena Baralis</na>
+		</co>
+		<co c="0">
+			<na f="b/Beltr=aacute=n:Carlos" pid="02/70">Carlos Beltr&#225;n</na>
+		</co>
+		<co c="0">
+			<na f="b/Bernstein:Philip_A=" pid="b/PhilipABernstein">Philip A. Bernstein</na>
+		</co>
+		<co c="0">
+			<na f="b/Blanco:Francisco_J=_P=eacute=rez" pid="210/7576">Francisco J. P&#233;rez Blanco</na>
+		</co>
+		<co c="1">
+			<na f="b/Br=ouml=ring:Arne" pid="89/7170">Arne Br&#246;ring</na>
+		</co>
+		<co c="0">
+			<na f="b/Brucker:Achim_D=" pid="b/AchimDBrucker">Achim D. Brucker</na>
+		</co>
+		<co c="0">
+			<na f="c/Cabot:Jordi" pid="18/948">Jordi Cabot</na>
+		</co>
+		<co c="0">
+			<na f="c/Calvanese:Diego" pid="c/DiegoCalvanese">Diego Calvanese</na>
+		</co>
+		<co c="0">
+			<na f="c/Camp:Olivier" pid="70/4201">Olivier Camp</na>
+		</co>
+		<co c="0">
+			<na f="c/Carmona_0001:Josep" pid="52/5368">Josep Carmona 0001</na>
+		</co>
+		<co c="0" n="2">
+			<na f="c/Castro:Jaelson_Brelaz_de" pid="c/JBdCastro">Jaelson Brelaz de Castro</na>
+			<na>Jaelson Castro</na>
+		</co>
+		<co c="0">
+			<na f="c/Clark_0001:Tony" pid="56/4917">Tony Clark 0001</na>
+		</co>
+		<co c="0" n="2">
+			<na f="c/Cordeiro:Jos=eacute=_A=_Moinhos" pid="c/JAMCordeiro">Jos&#233; A. Moinhos Cordeiro</na>
+			<na>Jos&#233; Cordeiro</na>
+		</co>
+		<co c="0">
+			<na f="c/Costal:Dolors" pid="13/2106">Dolors Costal</na>
+		</co>
+		<co c="0">
+			<na f="c/Curto:Sergi" pid="305/0370">Sergi Curto</na>
+		</co>
+		<co c="0">
+			<na f="d/Dania:Carolina" pid="32/8164">Carolina Dania</na>
+		</co>
+		<co c="0">
+			<na f="d/Decker:Hendrik" pid="d/HendrikDecker">Hendrik Decker</na>
+		</co>
+		<co c="0">
+			<na f="e/Esta=ntilde=ol:Montserrat" pid="125/0332">Montserrat Esta&#241;ol</na>
+		</co>
+		<co c="0">
+			<na f="f/Farr=eacute=:Carles" pid="80/1912">Carles Farr&#233;</na>
+		</co>
+		<co c="0">
+			<na f="f/Franconi:Enrico" pid="f/EnricoFranconi">Enrico Franconi</na>
+		</co>
+		<co c="0">
+			<na f="f/Fraternali:Piero" pid="f/PieroFraternali">Piero Fraternali</na>
+		</co>
+		<co c="0">
+			<na f="g/Ga=ntilde==aacute=n:David" pid="89/8828">David Ga&#241;&#225;n</na>
+		</co>
+		<co c="0">
+			<na f="g/Georg:Geri" pid="66/1355">Geri Georg</na>
+		</co>
+		<co c="0">
+			<na f="g/Giacomo:Giuseppe_De" pid="g/GDGiacomo">Giuseppe De Giacomo</na>
+		</co>
+		<co c="0">
+			<na f="g/Gogolla:Martin" pid="g/MartinGogolla">Martin Gogolla</na>
+		</co>
+		<co c="0">
+			<na f="g/G=oacute=mez_0001:Cristina" pid="42/5204-1">Cristina G&#243;mez 0001</na>
+		</co>
+		<co c="0">
+			<na f="h/Hammoudi:Slimane" pid="42/6348">Slimane Hammoudi</na>
+		</co>
+		<co c="0">
+			<na f="h/Hartmann:Sven" pid="h/SvenHartmann">Sven Hartmann</na>
+		</co>
+		<co c="0">
+			<na f="j/Jouault:Fr=eacute=d=eacute=ric" pid="10/4610">Fr&#233;d&#233;ric Jouault</na>
+		</co>
+		<co c="1">
+			<na f="k/K=auml=bisch:Sebastian" pid="70/8102">Sebastian K&#228;bisch</na>
+		</co>
+		<co c="0">
+			<na f="k/Katsis:Yannis" pid="75/4070">Yannis Katsis</na>
+		</co>
+		<co c="1">
+			<na f="k/Khelil:Abdelmajid" pid="97/5874">Abdelmajid Khelil</na>
+		</co>
+		<co c="0">
+			<na f="k/Koppelaars:Toon" pid="305/0135">Toon Koppelaars</na>
+		</co>
+		<co c="1">
+			<na f="k/Kramer:Denis" pid="193/9575">Denis Kramer</na>
+		</co>
+		<co c="0">
+			<na f="l/Lembo:Domenico" pid="91/2168">Domenico Lembo</na>
+		</co>
+		<co c="0">
+			<na f="m/Maciaszek:Leszek_A=" pid="m/LAMaciaszek">Leszek A. Maciaszek</na>
+		</co>
+		<co c="0">
+			<na f="m/Marcos:Esperanza" pid="m/EsperanzaMarcos">Esperanza Marcos</na>
+		</co>
+		<co c="0">
+			<na f="m/Marinescu:Maria=Cristina_V=" pid="69/338">Maria-Cristina V. Marinescu</na>
+		</co>
+		<co c="0">
+			<na f="m/Mart=iacute=n:Carme" pid="m/CarmeMartin">Carme Mart&#237;n</na>
+		</co>
+		<co c="0">
+			<na f="m/Mayol:Enric" pid="59/914">Enric Mayol</na>
+		</co>
+		<co c="0">
+			<na f="m/Mazuran:Mirjana" pid="70/7250">Mirjana Mazuran</na>
+		</co>
+		<co c="0">
+			<na f="m/Mecca:Giansalvatore" pid="m/GMecca">Giansalvatore Mecca</na>
+		</co>
+		<co c="0">
+			<na f="m/Melnik_0001:Sergey" pid="m/SergeyMelnik">Sergey Melnik 0001</na>
+		</co>
+		<co c="1">
+			<na f="m/Mitic:Jelena" pid="76/3367">Jelena Mitic</na>
+		</co>
+		<co c="0">
+			<na f="m/Montali:Marco" pid="85/1455">Marco Montali</na>
+		</co>
+		<co c="0">
+			<na f="m/Mosca_0001:Alessandro" pid="90/626">Alessandro Mosca 0001</na>
+		</co>
+		<co c="0">
+			<na f="m/Munoz=Gama:Jorge" pid="33/8488">Jorge Munoz-Gama</na>
+		</co>
+		<co c="0">
+			<na f="n/Nutt:Werner" pid="n/WernerNutt">Werner Nutt</na>
+		</co>
+		<co c="0">
+			<na f="o/Oliv=eacute=:Antoni" pid="89/4942">Antoni Oliv&#233;</na>
+		</co>
+		<co c="0">
+			<na f="o/Oriol:Xavier" pid="150/7988">Xavier Oriol</na>
+		</co>
+		<co c="0">
+			<na f="o/Ortiz:Victor=Alejandro" pid="253/6296">Victor-Alejandro Ortiz</na>
+		</co>
+		<co c="0">
+			<na f="p/Paraboschi:Stefano" pid="05/600">Stefano Paraboschi</na>
+		</co>
+		<co c="0">
+			<na f="p/Pastor:Joan_Antoni" pid="p/JAPastorCollado">Joan Antoni Pastor</na>
+		</co>
+		<co c="0">
+			<na f="p/Pastor_0001:Oscar" pid="p/OscarPastor">Oscar Pastor 0001</na>
+		</co>
+		<co c="1">
+			<na f="p/Phuoc:Danh_Le" pid="23/6145">Danh Le Phuoc</na>
+		</co>
+		<co c="0">
+			<na f="p/Pujol:Eduard" pid="305/0397">Eduard Pujol</na>
+		</co>
+		<co c="0">
+			<na f="q/Queralt:Anna" pid="82/6372">Anna Queralt</na>
+		</co>
+		<co c="0">
+			<na f="r/Ravent=oacute=s:Ruth" pid="41/3374">Ruth Ravent&#243;s</na>
+		</co>
+		<co c="0">
+			<na f="r/Rosa:Marcello_La" pid="20/3634">Marcello La Rosa</na>
+		</co>
+		<co c="0">
+			<na f="r/Rueda:Carmen" pid="253/6188">Carmen Rueda</na>
+		</co>
+		<co c="0">
+			<na f="r/Rull:Guillem" pid="42/5536">Guillem Rull</na>
+		</co>
+		<co c="0" n="2">
+			<na f="s/Sadiq:Shazia_Wasim" pid="s/SWSadiq">Shazia Wasim Sadiq</na>
+			<na>Shazia W. Sadiq</na>
+		</co>
+		<co c="0">
+			<na f="s/Sancho:Maria=Ribera" pid="89/6678">Maria-Ribera Sancho</na>
+		</co>
+		<co c="0">
+			<na f="s/Santoro:Donatello" pid="32/5873">Donatello Santoro</na>
+		</co>
+		<co c="0">
+			<na f="s/Santos:Ivo_Garcia_dos" pid="131/4227">Ivo Garcia dos Santos</na>
+		</co>
+		<co c="0">
+			<na f="s/Savo:Domenico_Fabio" pid="09/4413">Domenico Fabio Savo</na>
+		</co>
+		<co c="1">
+			<na f="s/Schindhelm:Corina_Kim" pid="73/7567">Corina Kim Schindhelm</na>
+		</co>
+		<co c="1">
+			<na f="s/Schmid_0002:Stefan" pid="58/3289-2">Stefan Schmid 0002</na>
+		</co>
+		<co c="0">
+			<na f="s/Sindoni:Giuseppe" pid="52/3314">Giuseppe Sindoni</na>
+		</co>
+		<co c="0">
+			<na f="s/Sistac:Jaume" pid="14/1818">Jaume Sistac</na>
+		</co>
+		<co c="0">
+			<na f="t/Tanca:Letizia" pid="t/LetiziaTanca">Letizia Tanca</na>
+		</co>
+		<co c="0">
+			<na f="t/Tort:Albert" pid="94/8050">Albert Tort</na>
+		</co>
+		<co c="0">
+			<na f="u/Urp=iacute=:Toni" pid="35/1865">Toni Urp&#237;</na>
+		</co>
+		<co c="0">
+			<na f="v/Vara:Juan_M=" pid="15/5055">Juan M. Vara</na>
+		</co>
+		<co c="0">
+			<na f="v/Vila:Marc" pid="294/3287">Marc Vila</na>
+		</co>
+		<co c="0">
+			<na f="v/Vilajosana:Xavier" pid="75/2244">Xavier Vilajosana</na>
+		</co>
+		<co c="0">
+			<na f="w/Weidlich:Matthias" pid="61/267">Matthias Weidlich</na>
+		</co>
+		<co c="0">
+			<na f="w/Wolff:Burkhart" pid="63/5369">Burkhart Wolff</na>
+		</co>
+	</coauthors>
+</dblpperson>
+

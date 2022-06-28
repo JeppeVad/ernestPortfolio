@@ -1,14 +1,45 @@
 <!-- <p>This is article with 2 with subtitle</p> -->
 <!-- <%= publicationsOutput.dblpperson.r[6].article[0].title[0]._ %> <br> -->
 <% publicationsOutput.dblpperson.r.forEach(function(article, x) { %>
-    <%= publicationsOutput.dblpperson.r[0].article[0].title %>
-    <br> <p>--------------------------------------------------</p>
-    <%= publicationsOutput.dblpperson.r[6].article[0].title[0]._ %>
-    <br> <p>--------------------------------------------------</p>
-    <!-- <%= publicationsOutput.dblpperson.r[1].inproceedings[0].title %> -->
-    <!-- <p>--------------------------------------------------</p> -->
-    <!-- <br><br><br>  -->
-
+<!-- <%= publicationsOutput.dblpperson.r[0].article[0].title %> -->
+<!-- <br> <p>--------------------------------------------------</p> -->
+<!-- <%= publicationsOutput.dblpperson.r[6].article[0].title[0]._ %> -->
+<!-- <br> <p>--------------------------------------------------</p> -->
+<!-- <%= publicationsOutput.dblpperson.r[1].inproceedings[0].title %> -->
+<!-- <p>--------------------------------------------------</p> -->
+<!-- <br><br><br>  -->
 <% }); %>
+<p id="consolelog"></p>
+<p id="dblpData"></p>
 
 
+<script>
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function () {
+    if (this.readyState == 4 && this.status == 200) {
+      myFunction(this);
+    }
+  };
+  xhttp.open("GET", "https://dblp.uni-trier.de/pid/t/ErnestTeniente.xml", true);
+  xhttp.send();
+  function myFunction(xml) {
+    var url, title, year, i, txt, xmlDoc;
+    xmlDoc = xml.responseXML;
+    txt = "";
+    title = xmlDoc.getElementsByTagName("title");
+    year = xmlDoc.getElementsByTagName("year");
+    url = xmlDoc.getElementsByTagName("ee");
+    let article = xmlDoc.getElementsByTagName("r");
+
+
+    // document.getElementById("consolelog").innerHTML = txt;
+    
+    for (i = 0; i < url.length; i++) {
+        txt += title[i].childNodes[0].nodeValue + "<br>";
+        txt += '<a href="' + url[i].childNodes[0].nodeValue + '">' + url[i].childNodes[0].nodeValue + '</a><br>';
+        txt += year[i].childNodes[0].nodeValue + "<br><p>--------------------------------------</p>";
+
+    }
+    document.getElementById("dblpData").innerHTML = txt;
+  }
+</script>

@@ -61,7 +61,7 @@ const publicationsView = (req, res) => {
     const parser = new xml2js.Parser();
     parser.parseStringPromise(data)
       .then(function(response){       // author[0]._ == name of author
-        console.log(response.dblpperson.r[6].article[0].title[0]._);
+        // console.log(response.dblpperson.r[6].article[0].title[0]._);
         res.render("publications", {
           title: "Publications",
           layout: "./layouts/full-width",

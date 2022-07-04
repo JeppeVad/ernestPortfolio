@@ -1,7 +1,7 @@
 var getTablesData = require("../models/getModel");
 const xml2js = require("xml2js");
 const fs = require("fs");
-
+var XMLHttpRequest = require("xmlhttprequest");
 
 const indexView = (req, res) => {
   res.render("index", {
@@ -55,6 +55,9 @@ const aboutView = (req, res) => {
 }
 
 const publicationsView = (req, res) => { 
+
+  
+
   fs.readFile('doc\\ErnestTenientePublicationsData.xml', 
   function(err, data) { 
     if (err) throw err;

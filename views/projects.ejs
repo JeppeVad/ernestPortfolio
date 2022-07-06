@@ -1,50 +1,59 @@
-<br /><br />
-<div class="flexcontainer2">
-  <div class="btn-group">
-    <div class="width-lists">
-    <p>List of projects</p>
-    <% projectsOutput.forEach(function(project) { %>
-    <form action="<%= project.url %>">
-      <button
-        type="submit"
-        onclick="parent.open='<%= project.url %>'"
-        value="<%= project.title%>">
-        <%= project.title%>
-      </button>
-    </form>
-    <% }); %>
-  </div>
-  </div>
-  <div class="btn-group">
-    <div class="width-lists">
-      <p>List of scientific output</p>
-      <% scientificOutput.forEach(function(scientific) { %>
-      <form action="<%= scientific.url %>">
-          <button
-              type="submit"
-              onclick="parent.open='<%= scientific.url %>'"
-              value="<%= scientific.title%>">
-              <%= scientific.title%>
-          </button>
-      </form>
-      <% }); %>
+<div class="row justify-content-center">
+  <div class="card" style="width: 70%">
+    <div class="form-row row-eq-spacing">
+      <div class="col-8">
+        <br /><br />
+        <div class="flexcontainer2">
+          <div class="btn-group">
+            <div class="width-lists">
+              <p>List of projects</p>
+              <% projectsOutput.forEach(function(project) { %>
+              <form action="<%= project.url %>">
+                <button
+                  type="submit"
+                  onclick="parent.open='<%= project.url %>'"
+                  value="<%= project.title%>"
+                >
+                  <%= project.title%>
+                </button>
+              </form>
+              <% }); %>
+            </div>
+          </div>
+          <div class="btn-group">
+            <div class="width-lists">
+              <p>List of scientific output</p>
+              <% scientificOutput.forEach(function(scientific) { %>
+              <form action="<%= scientific.url %>">
+                <button
+                  type="submit"
+                  onclick="parent.open='<%= scientific.url %>'"
+                  value="<%= scientific.title%>"
+                >
+                  <%= scientific.title%>
+                </button>
+              </form>
+              <% }); %>
+            </div>
+          </div>
+          <div class="btn-group">
+            <div class="width-lists">
+              <p>List of Areas of Expertice</p>
+              <% AreasOfExpertiseOutput.forEach(function(areasofexpertice) { %>
+              <form action="<%= areasofexpertice.url %>">
+                <button
+                  type="submit"
+                  onclick="parent.open='<%= areasofexpertice.url %>'"
+                  value="<%= areasofexpertice.title%>"
+                >
+                  <%= areasofexpertice.title%>
+                </button>
+              </form>
+              <% }); %>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-  <div class="btn-group">
-    <div class="width-lists">
-      <p>List of Areas of Expertice</p>
-      <% AreasOfExpertiseOutput.forEach(function(areasofexpertice) { %>
-      <form action="<%= areasofexpertice.url %>">
-          <button
-              type="submit"
-              onclick="parent.open='<%= areasofexpertice.url %>'"
-              value="<%= areasofexpertice.title%>">
-              <%= areasofexpertice.title%>
-          </button>
-      </form>
-      <% }); %>
-    </div>
-  </div>
-
 </div>
-

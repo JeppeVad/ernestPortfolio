@@ -1,7 +1,7 @@
 var getTablesData = require("../models/getModel");
 const xml2js = require("xml2js");
 const fs = require("fs");
-var XMLHttpRequest = require("xmlhttprequest");
+var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 
 const indexView = (req, res) => {
   res.render("index", {
@@ -54,30 +54,25 @@ const aboutView = (req, res) => {
   });
 }
 
+
 const publicationsView = (req, res) => { 
-
-  
-
-  fs.readFile('doc\\ErnestTenientePublicationsData.xml', 
-  function(err, data) { 
-    if (err) throw err;
-    const parser = new xml2js.Parser();
-    parser.parseStringPromise(data)
-      .then(function(response){       // author[0]._ == name of author
-        // console.log(response.dblpperson.r[6].article[0].title[0]._);
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      let dataObject = this.responseText;
+      const parser = new xml2js.Parser();
+      parser.parseStringPromise(dataObject).then(function(response) {
         res.render("publications", {
           title: "Publications",
           layout: "./layouts/full-width",
           publicationsOutput: response,
         });
-      }).catch(function(err){
-        console.log(err);
-      }
-    );
-  });
-  
+      })
+    }
+  }
+  xhttp.open("GET", "https://dblp.uni-trier.de/pid/t/ErnestTeniente.xml", true);
+  xhttp.send();
 
-  
 }
 
 module.exports = {

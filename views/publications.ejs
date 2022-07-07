@@ -11,6 +11,7 @@
   <% counter++; %>
 <% }); %>
 
+
 <% let i = 0; %>
 <% let x = 0; %>
 <% let z = 0; %>
@@ -35,12 +36,7 @@
     <%= publicationsOutput.dblpperson.r[i].inproceedings[0].pages %> pages<br>
     <%= publicationsOutput.dblpperson.r[i].inproceedings[0].year %> year <br>
     <%= publicationsOutput.dblpperson.r[i].inproceedings[0].booktitle %> <br>
-    
-    <% if(typeof publicationsOutput.dblpperson.r[i].inproceedings[0].ee == []) { %>
-      <%= publicationsOutput.dblpperson.r[i].inproceedings[0].ee %>
-    <% }else{ %>
-      <%= publicationsOutput.dblpperson.r[i].inproceedings[0].ee %> <br> 
-    <% } %>
+    <a href="<%=publicationsOutput.dblpperson.r[i].inproceedings[0].ee%>"><%= publicationsOutput.dblpperson.r[i].inproceedings[0].ee %> </a><br>
     <p>-----------------------------------</p>
     <% i++; %>
 
@@ -80,11 +76,11 @@
     <br>
     <%= publicationsOutput.dblpperson.r[i].proceedings[0].title %><br>
     <%= publicationsOutput.dblpperson.r[i].proceedings[0].booktitle %><br>
-    <%= publicationsOutput.dblpperson.r[i].proceedings[0].year %> year <br>
-    <%= publicationsOutput.dblpperson.r[i].proceedings[0].volume %> volume<br>
+    <%= publicationsOutput.dblpperson.r[i].proceedings[0].year %> year,
+    <%= publicationsOutput.dblpperson.r[i].proceedings[0].volume %> volume,
     <%= publicationsOutput.dblpperson.r[i].proceedings[0].publisher %><br>
     <a href="<%= publicationsOutput.dblpperson.r[i].proceedings[0].ee %>"><%= publicationsOutput.dblpperson.r[i].proceedings[0].ee %></a>
-    <%= publicationsOutput.dblpperson.r[i].proceedings[0].ee %>
+    
     <br>
     <p>-----------------------------</p>
     <% i++; %>

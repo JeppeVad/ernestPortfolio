@@ -47,7 +47,6 @@ const contactView = (req, res) => {
 };
 
 const aboutView = (req, res) => {
-  
   res.render("about", {
     title: "About",
     layout: "./layouts/full-width",

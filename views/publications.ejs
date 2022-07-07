@@ -10,11 +10,13 @@
   <% arrayOfArticleTypes.push(Object.getOwnPropertyNames(publicationsOutput.dblpperson.r[counter])); %> 
   <% counter++; %>
 <% }); %>
+
 <% let i = 0; %>
 <% let x = 0; %>
 <% let z = 0; %>
 <% let authorCounter = 0; %>
 <% let count = 0; %>
+
 <% publicationsOutput.dblpperson.r.forEach(function() { %>
   <% if(arrayOfArticleTypes[i] == 'inproceedings') { %>
     <% authorCounter = 0; %>
@@ -23,6 +25,7 @@
       <% authorCounter++; %>
     <% }); %>
     <br>
+
     <% count = 0; %>
     <% publicationsOutput.dblpperson.r[i].inproceedings[0].title.forEach(function() { %>
       <%= publicationsOutput.dblpperson.r[i].inproceedings[0].title[count]._ %>
@@ -32,6 +35,7 @@
     <%= publicationsOutput.dblpperson.r[i].inproceedings[0].pages %> pages<br>
     <%= publicationsOutput.dblpperson.r[i].inproceedings[0].year %> year <br>
     <%= publicationsOutput.dblpperson.r[i].inproceedings[0].booktitle %> <br>
+    
     <% if(typeof publicationsOutput.dblpperson.r[i].inproceedings[0].ee == []) { %>
       <%= publicationsOutput.dblpperson.r[i].inproceedings[0].ee %>
     <% }else{ %>
@@ -39,6 +43,7 @@
     <% } %>
     <p>-----------------------------------</p>
     <% i++; %>
+
   <% } else if (arrayOfArticleTypes[i] == 'article') { %>
     <% authorCounter = 0; %>
     <% publicationsOutput.dblpperson.r[i].article[0].author.forEach(function() { %>
@@ -64,6 +69,7 @@
     
     <p>--------------------------------------------------------</p>
     <% i++; %>
+
   <% } else if (arrayOfArticleTypes[i] == 'proceedings') { %>
     <%  %>
     <% authorCounter = 0; %>
@@ -90,29 +96,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 </div>
 </div>
 </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
